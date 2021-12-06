@@ -1,0 +1,1201 @@
+id|nombre_usuario|nombre_completo|ubicacion|cant_seguidores|cant_seguidos|cant_tweets
+972691182630461440|cardr3s|Carlos Andrés|Huancayo, Peru|29|234|3953
+1454433601613926407|Y2Hf2|عمرو صلاح|None|36|782|189
+94626343|RolazHdez|Rolando Hernandez|Gomez Palacio Durango|892|2036|4498
+75320571|EnriqueArR|Enrique Armenta |Guadalajara, Jalisco|631|548|186173
+1385385178684694531|moreiraaabruno|Bruno 🤙🏼|Uruguay|34|47|646
+91467442|elizabeth_cz|elizabeth cz de tamayo|Ecuador|467|1170|16883
+1313846987255623680|c_alvarado88|Carlos Alvarado|El Salvador|9|91|56
+568788857|UlisesBarreiro1|Ulises Barreiro|Argentina|1438|1408|8946
+1266592809542471683|andreadavila_30|𝕬𝖓𝖉𝖗𝖊𝖆🥀|Córdoba, Argentina|82|106|13311
+129305935|eudmed|Eugenio D'Medina Lora|None|50238|1208|95645
+323370050|SantiagoLegarra|Santiago Legarra|None|110|156|4428
+269458047|Miriam_garza98|pato|None|533|359|47237
+240019139|HLiilyn|Eilyn Henriquez 🍀|Maracay, Venezuela|154|221|2372
+1052318614244737026|Helenacr2000|Helena Méndez|San José, Costa Rica|203|2540|5256
+1095458060041039872|diario_libero|Diario Líbero|Lima, Peru|12689|708|104136
+1240033390407102470|AdonayHndz|Adonay Hernández|None|167|53|45488
+3056980540|marius191103|podba|None|7|35|22
+1255591974419259396|bysteven04|El Milagro de Múnich|🇵🇪|490|1818|26739
+31243282|elgraficionado|EL GRÁFICO|San Salvador, El Salvador|419038|200|338493
+140974978|luisrga|Luis Godoy|Lara - Barquisimeto|465|432|14248
+286091714|fidelfernan|Fidel Fernán|España|2372|1461|41117
+159209317|alaanlevin|Alan|Buenos Aires|1304|1052|127506
+1300859966081949696|Isaaaaaaaaaak|Isaac Chero|None|43|164|2831
+226779527|rochajorge87|jorge CARP|None|1809|2789|25338
+1319048400|Rnunezgonzales|Roberto Núñez|La Molina, Lima, Perú|1208|1364|153754
+386181593|Riki88Reyes|Ricardo Reyes|None|334|578|124334
+1433119673827090432|LiberalLomas|soy el 8%|None|57|162|3671
+2435925909|davidsg311|DAVID|None|232|1060|17584
+719336270590316544|abru_ferreyra|Abril Ferreyra|Argentina|510|298|3612
+1280418001|dany15portillo|🤖Cyborgbappe🐢|Madrid, Comunidad de Madrid|388|424|22257
+776483741086523392|bryanmozz98|Bryan Mozz 🇸🇻👾|None|230|908|12078
+1427074834203299841|Arvil46|Armando VILLAMIZAR|Bogotá, D.C., Colombia|2|52|26
+2772156664|ArganaJose|Jose Argaña|Asuncion, Paraguay|320|952|117187
+854110434571321344|sintarjetasmx|Sin Tarjetas|México|1138|677|4709
+326297169|diazjesus80|Jesús Díaz💎|Quito, Ecuador|1076|2014|73731
+174306368|tocarymirar|Daniel Figueroa|colombia|1936|1995|87052
+361849520|Minelle_Kajuru|★ 𝗠𝗶𝗻𝗲𝗹𝗹𝗲 𝗞𝗮𝗷𝘂𝗿𝘂 ★ᶜᵃᵐ|Arena MRV 🏟️🔺|9004|6755|69629
+529907898|marc_jarque|FCB.|agora não Lisboa|482|163|10698
+53533878|miguelitochivas|miguel Anjel (tu padre)|huntington park california|51|123|2907
+1292607576379723777|Fernand70217805|Fercho|Costa Rica|26|286|2888
+68921382|RDeportivoCL|Recreo Deportivo (🏠)|Chile|15633|3083|63514
+736353847044505600|EGonzr_|Eric A. González R.|Panama|217|698|16626
+1183050946684899329|pjtauro1980ec|@PJTauro13801305|None|42|2083|3897
+494421266|jdmendez79|julian dario mendez|Colombia|211|996|15927
+120213040|eduardodelaefe|Eduardo|Chile|1565|2001|29646
+1066888800|DanielbRodri|Daniel Rodriguez|Bogota D.C|185|172|2126
+846802781646282752|JoaquinPagani_|Joaquín Pagani 👑|Macrist Republic of Lanús|108|99|4083
+142466913|lopez_017|simón lopez|caracas/venezuela|188|376|2442
+3721181419|danielsrdgz|DAN|Puebla, México|462|580|70317
+818940779506913281|pablomonpar|Pablo Montoya|None|516|985|9840
+740241910481162241|roodri87|Yoooo|None|546|925|77515
+766031612098347008|dgolopez_|dL|A Coruña, Galicia|651|160|158168
+587762833|Rairode|Raimundo🇨🇱|Santiago, Chile|374|830|3105
+705219667196055554|TioPacman_YT|Pacman blóðøx :v|Bello, Colombia|266|2124|22672
+1421873330328674308|Josenavass10|Jose Navas|Malaga, Spain|23|51|4
+251398214|Yuliethangulo|Yulieth Angulo|None|265|162|10096
+1261694126061428736|GustavoMella8|Pecosin 2.0|Valdivia - Chile|5556|5557|82131
+635084433|anibalcaraz|Anibal Alcaraz|Asuncion, Paraguay|1509|455|18231
+74248727|Bartoparaiso|Manuel Barjau|Tabasco|330|1421|4227
+68630715|fabiajum|Fabianes🐻🌳|None|147|241|2502
+3313876809|ccdango|Dango Sports|Venezuela|52|74|5738
+106488028|Alberto_Boyzo|Memé Boyzo|None|245|819|15849
+3744469995|jotax53|𝕵𝖆𝖎𝖗𝖔 𝕵. 𝕽𝖎𝖛𝖆𝖘 𝕬.|Un lugar llamado Vzla.|130|526|2541
+1322674355466326023|Gerclra|Ger|None|52|212|1373
+122397182|evmerino|Eduardo V Merino|None|41|578|1547
+2899463447|EmilioRicchar23|NICOLAS|None|102|603|3296
+113410319|jornalistavitor|Vitor Santos|Brasil|35341|38609|2636941
+283391877|socio92129|Socio #92129|Buceo|92|630|2126
+16845154|julio_arvizu|Julio C. Arvizu|None|516|1812|10939
+1396183032500006916|mrs1891ca|Mrs1891caP|None|34|339|3895
+113410319|jornalistavitor|Vitor Santos|Brasil|35341|38609|2636941
+1398704431860961282|aneshalieli|@Aneshali2🇪🇸💚💚|None|2156|2309|70535
+1700899898|SLEterno|SLEterno radio|Av La Plata.|7713|387|94721
+955931469570076673|pelelox|Woodrow|None|36|79|7119
+803374091608752128|M_SportsMassage|Minagawa Sports Massage Clinic|#Fukuoka, #Japan & worldwide|264|528|1480
+1386412508496367618|LitosAlan|Alan litos|None|134|631|7363
+1264308814947508230|Scrates141|Sócrates14|None|703|1861|42454
+3226333064|fedefut_oficial|FEDEFUT GUATE|Ciudad de Guatemala|62439|37|11245
+1001861219811299328|Walter21289956|walter ezequiel galeano🐓|FORMOSA ARGENTINA |1020|4987|101328
+1968877694|orionclan1|ronal bastidas|Bogotá, D.C., Colombia|61|430|18150
+237435329|hermeszerpa|Hermes Zerpa|Venezuela|180|607|4702
+1307841795787808768|bryan_vidal95|SIEMPRE BOLSO 🇱🇺|Montevideo, Uruguay|1276|831|10667
+1270527812613668866|brayan200110|Brayan Aviles|Ibagué, Colombia|71|174|602
+970409384298901506|hstudyrainbowsx|barby ²⁴|love love love, H ♡|1127|1092|18218
+1692698478|PortuGalo13|PortuGalo|None|208|276|1780
+94429039|futpicante|Futbol Picante|www.facebook.com/futpicante|1861933|174|230464
+211318948|el_juse04|JOSE🍔|Ciudad Bolívar, Venezuela...|76|174|7261
+1457019053868990478|Robertosolovino|Roberto Basurto|None|2|40|271
+1410951051465957383|Carlos75797380|Carlos|San Nicolás de los Garza, Nuev|1|167|107
+3613481008|sebastiangilt|SGT|None|97|231|1095
+131578757|Endereprieto|Ender Enrique|Venezuela|287|388|8778
+1476007279|CrPolanco97|Cristian Rodríguez 🐢|Bogotá, D.C., Colombia|468|605|6822
+104232122|J_granados94|Jorge Granados|Toluca de lerdo México|895|1435|9343
+248475904|moralesnemo|nelson morales Herre|colombia|236|367|9370
+886319600958410753|coromotosilva17|coromoto silva|None|764|2133|120787
+179373675|ale67uy|Alejandro Jaureguy|Montevideo, Uruguay|63|49|2174
+836508566|EduMedina2104|Eduardo Medina|Valledupar|164|787|3696
+433179662|josefloresgarza|José Flores|Coahuila. México|162|283|1073
+826218361|J_SaltyDeez|geoffroyi(redacted)|Off-season purgatory |1006|5000|33610
+69962890|2010MisterChip|MisterChip (Alexis)|Allá donde haya un balón|3320078|701|138784
+268557453|LinaOlarte09|María a Ratos.|Bogotá, D.C., Colombia|624|1700|8341
+1421520895059824647|LosYayunos|Los Yayos|None|6|16|824
+1350612345450622978|HaroldMendoza85|Harold Mendoza|Bogotá, Colombia|248|541|4352
+119968377|szfresh17|SZ|Medellín, Antioquia, Colombia|258|299|17141
+1374843758215303168|AnaLorenaGuerr2|analorexD|None|9|16|43
+1055187803070480386|RafaelCart1|residente online..|Lomas del Tecnológico, San Lui|359|485|50607
+172325187|TOMASNINO1|SOYFASTIDIOSO|Bogota|114|433|11727
+200675202|valderramaval|🇻🇪Opinión del Fanatico🇻🇪⚽️🏀🥎⚾️🏈🏐|Caracas|690|2063|8139
+576874130|neetoarroyo|Neto|Gdl|271|541|14679
+1651112322|pepe88pino|José Antonio Pino🏀|Guayaquil City|167|554|8514
+134922343|sergioicastillo|Sergio A Castillo|Morón, Buenos Aires|2889|1287|239149
+2648857450|MayraOlveraR|Mayra Olvera 🇪🇨|Quito, Ecuador|3879|922|9314
+1148404235526127618|Gabbolord14|Gabriel14😎|None|5|46|479
+1711458361|luisjh98|Luis Tovar|Edo.Mex |3|182|219
+1215076658459422720|boysputa|PAPICHULO 300k❤️🔥|None|280320|4|55465
+759926382046633984|AlzateTorres08|D. Alzate|Bogotá, D.C., Colombia|1008|1717|62204
+1338682480958836739|s_brazzuna3|Me dicen Monito|Villa Soriano Soriano, Uruguay|94|262|45
+1143893878686269440|BarSava94008560|Barış mı Savaş|None|20|63|981
+190396895|ESPNmx|ESPN.com.mx|México|1333188|471|418548
+41055866|kindree24|AKin -|Santiago, Chile|9093|7155|135478
+1378325559097327616|caceresnahu_|nah|Mendoza, Argentina|28|56|230
+1045431480367763456|___tupadre|tupadre|None|1938|1640|9611
+65931418|Hernan__Forero|Hernan Forero|Bogota.Colombia|91|1182|235
+183804158|JorgeAyalaB|Jorge Ayala Becerril|Ecatepec, México|687|3874|17875
+30005833|mexicaztlan|Chairosé Luis|México -Tenochtitlan|1205|1868|103938
+1649128466|CintyaMolda|Cintya la Ninja|Rosario, Argentina|116|103|8342
+37372338|alpiedeldeporte|Everardo Herrera|Costa Rica|131074|587|247098
+200273408|Toche_Hunt|𝑱𝑶𝑺𝑬 𝑫𝑨𝑽𝑰𝑫 😎 💪🏽|Ciénaga de Oro, Colombia|679|1213|27666
+162613758|ChrisRojatssss|Chrissroojass|None|98|540|4001
+77879893|CamiMoraR|Camila Mora Restrepo|None|147|233|9522
+357910805|dr_burro|dr_burro|Texcoco|272|1685|2258
+2864573901|Diosas__|Diosas 24k 🔥|Argentina|24083|1360|36495
+69373712|caligat|😍|México|277|603|7308
+2232203261|tgtr0660FCB|Teo 66 El Culé! (TÓXICO)|None|2772|2344|39410
+185809032|NFLLive_esp|NFLLive_esp|https://www.facebook.com/NFLLiveespanol|117886|144|59230
+2450808662|moshefina|GZuñiga|Metropolitana de Santiago, Chi|81|35|4259
+197688226|aurijuarez|Auri|None|43|73|1110
+1147379685124386816|ARidovic|ANTOINE STEEVE RIDOVIC|Haiti|64|377|279
+935906997551190018|RNietao|Ramonao Nietao|None|158|1980|5247
+1307102972149665795|EDUARDO90030477|EDUARDO|None|605|2452|14266
+276316469|JoseHdez07|Jose Hernandez B.|None|283|104|6180
+288516866|Garridogilberto|Gilberto Garrido B. ⤴️|Panama|456|1507|11705
+2250961207|Ssuarez29|Sergio Suarez|Buenos Aires|45|67|27612
+267478508|andresolague|Drelazo|Argentina|440|2389|24408
+1416548353614155776|AMAIMEKISTAN|Calé|NGC 4565|78|68|3381
+358434381|JuanDesiderioA|Juan|   |812|593|4287
+1246634503357038592|MedicenJossema1|Jossema|Bogotá, D.C., Colombia|147|352|35718
+1319340242193661953|Jn185S|喜欢的不得了|Shandong，济南|154|369|1607
+1453412487903289347|FelipeTorresUr|ＰＩＰＥ ＴＯＲＲＥＳ|Medellín, Colombia|13|93|431
+875185468102651904|memoGRD12|Guillermo Ramírez|Distrito Federal, México|72|284|7974
+4899781096|jdbdagppl|juan diego|Tarapoto, Peru|33|609|2898
+83721443|amoscedano|Amós Cedano|República Dominicana|1111|991|8286
+968621602891091969|Gallardismo9DIC|La Araña Que Pica🐔|Buenos Aires, Argentina|2355|4874|21102
+215146168|GabrielViloria7|Viloria|Venezuela|92|309|1995
+757586330|deportes_rpc|Deportes RPC|Panamá|49579|518|58641
+1042894235358437376|Lucass_70|Lucas|Córdoba, Argentina|450|419|13446
+134922343|sergioicastillo|Sergio A Castillo|Morón, Buenos Aires|2889|1287|239149
+1447781572606787584|historiaU9|Historia 🅤|None|44|135|241
+134922343|sergioicastillo|Sergio A Castillo|Morón, Buenos Aires|2889|1287|239149
+108202976|wilmarflores|EL PATRÓN|México|480|1015|30821
+821592359913787392|LucianMariany|Luciano Fernando|Providencia, Chile|42|243|1691
+1129050328958218240|Dvolea2|Dvolea|None|24|97|288
+367366706|DrakoBeats|96Till∞|Far Far Away|385|1348|13876
+1416825387187855362|elprofe_fut|Elprofefut|None|21|71|985
+1266918439605714944|IamPaoloRizzo|Paolo Rizzo|None|5|71|322
+1307410314|MarcaClaroCol|Marca Claro Colombia|Colombia|46155|727|57796
+1348663259717632010|fridalnrm|Fridalnrm|None|310|411|16573
+1244148000206647296|ElieKanaanSaab|Elie Kanaan|None|210|313|5203
+1400513852664598531|Margari18597549|Margarito Cruz|None|355|4657|28042
+348621308|Jorgebalmacedaa|Jorge Balmaceda|Paraguay|497|685|8176
+144337831|susalorna|Lorna Irina Gemetto|Argentina|10899|1184|182869
+110479129|MCANTANDO|Miguel Cantando|ÜT: 9.914622,-69.628295|637|97|11015
+1386747458869399553|antonia87668554|antonia|None|39|26|7851
+1412165356345569283|ChancayEnrique|Enrique Chancay|None|6|98|113
+1270559846308462594|LorenaC72787839|Lorena Cid|Distrito Federal, México|12713|280|1542
+1386367708669911051|juniorcruz449|Junior Cruz|None|8|38|1256
+149128353|damianpablofal|Damian Falcinelli 💚|None|100|575|4712
+1432533363764703238|soyluisbr|Luis Biscardi|Venezuela|55|193|357
+1392072402054664193|txlktonight|agus :)|ella | 17|417|609|737
+502338140|verogp93|Gringaaa30|Salamanca, Spain|393|326|9572
+1454821117206618112|DiegoCha15|Diego Chavez|None|4|37|24
+374340294|waltercrema1|®o©k…(U)|Peru|502|293|63108
+935347483709931520|JIMERR17|Armando|None|145|1069|1205
+321502199|ale_sorcia|Alessandro|None|113|92|6758
+887136028175282176|AngelGarcia7200|Angel|Arequipa, Peru|93|778|6505
+2778423852|MorCampos33|Jose Luis Campos Morales (Kiki)|Triana, Sevilla|1631|3089|113962
+1254486825311354881|PerfectVision_1|Perfect Visión|None|4|10|44
+1043035752|Smith73745642|Lcdo Smith hernandez|Venezuela|305|2694|16087
+101857713|panchosagredo|Francisco Sagredo|Chile|371451|330|14364
+1270916532344885250|AnvepXD|Anvep|None|52|1410|1874
+1220097508057198599|ACabreriza|Angel Cabreriza|None|21|118|731
+907445003273822208|EstuardoNajer10|@Ēstuardo502|Guatemala|2|123|178
+1455058549|bernardo1907|bernardo ferreira|None|73|339|2328
+1246658646274162688|dadriana99|Adriana T|Neiva|23|43|88
+194766358|marizasibru|Mariza Sibru|uruguay|813|1437|23162
+944946788|CarlosAnguloAr|Carlos Angulo Arriet|Floridablanca, Colombia|30|121|7941
+941401438227283968|elyocritico|Cosme Fulanito|Monterrey, Nuevo León|444|444|168272
+1455657709261447172|CarlosG07398420|Carlos Godinez|None|2|40|2
+1466205061751754763|Carolin91053463|Carolina Flores|None|7|24|38
+1257522796881686529|MacasAlvarado|Javier Alvarado Macas👍👍🇪🇨|Guayaquil, Ecuador|12|44|329
+569694285|WalterLopezec|Wαℓ†єя Lopєɀ|Santa Rita|33|245|59
+1141069056151363585|adriano_gallego|adriano villa gallego|None|125|629|41815
+314726578|ClubSCristal|Club Sporting Cristal|Rimac|184801|112|45722
+302678829|BichoGarcia_10|Victor García|Asuncion|315|317|39531
+714412339|Canal_DanSolo|Danilo Camus|Santiago,Chile|950|1404|59607
+1427743431061770248|CarlosRealMadrd|CarlosRM|None|238|595|9352
+438804999|ThiagoRusso__|-|None|517|425|8090
+880410205552619520|BasilioHdzL|Basilio Hernandez L.|Zacatecas, México|126|251|1146
+131214917|IVOMANZANO|IM -MANOI|None|454|3712|61106
+293863740|lorbalfigor|Lorenzo Figueroa Orrala|None|1210|3357|253605
+757681721638850560|AdriOrtiz9_|ElAdriiMusic#9|Korea|866|673|45921
+2459086393|elgratinnoalcan|elgratinnoalcanza 🌳🌳🌳|None|223|255|33181
+1437863123373989894|Miguelat2445|Miguel A.T.|None|0|4|18
+1119263939932688385|Alexvallard17|Alex👑|None|198|176|1958
+1426367453169426434|ShinobuVamp18|Shinobu Oshino 🍩|The art is not mine bois|553|414|10637
+1162111158557392896|augustoc0498|Augusto🔥|Chiclayo, Peru|17|146|64
+139829433|Antena2RCN|Antena 2 Deportes|Colombia|367091|319|1041310
+2293943499|carevalos703|Cesar R. Arevalos C.|None|2822|2249|9350
+268591099|alex_risicaro|ALEX RISI CARO|PERÚ|42647|38560|80124
+423548690|fer_maikel|marca pasos|Seychelles|54|253|1434
+180619917|odin_ciani|odin ciani|EL LIDER MUNDIAL EN DEPORTES|64855|201|19315
+51755426|Charls09|Charls|Costa Rica|734|1891|24005
+2414675311|dgonzalezconeo|David González Coneo|Barranquilla|140|195|6034
+272205200|djaromanm|Danilo Román Melo|Quito|67|137|752
+1219842403517059072|_micaaabenitez|CSIR 🤍|None|375|211|1671
+1460798565832347656|Paola66003816|Paola|None|14|181|36
+1065048330185711616|AlvaroAFChavez|harry poto|Bayamo  Cuba |229|427|5943
+1002539932324376577|jairomarrero211|Jairo|VENEZUELA |255|1910|8940
+393662485|ADamericatv|América Deportes|Lima - Perú|29511|119|30081
+1419754371559002121|ThegamerMX|THEGAMERMX|None|2|12|123
+1427690682|sagitariuspac|francisco flores m|mexico d.f.|39|327|19338
+392531682|_WJCL|𝐖𝐢𝐥. 𝐗𝐕|Bogotá, D.C., Colombia|593|229|89900
+464846117|Yoltamal_|Yoltamal|Gancho de Caminos|2336|370|42583
+150436571|jhonnylozano|Lony Jhozano|None|1037|599|52423
+547694573|ParleyGratis1|😷🏀 PolletJB🏇😷|None|4676|900|23150
+1940988229|Javier_GFU|Javi|None|355|570|19246
+972303927667433472|LDUeldecano|LDU - Decano de 🇪🇨|Quito D.M|37|126|2503
+473216817|CaracolDeportes|Caracol Deportes|Colombia|356759|306|196009
+525939386|jvjvallejo83|Conde ♠️♥️|None|508|400|9403
+596135482|20ChrissHnCo|Christian Henriquez|None|540|370|21208
+952831680|virgilionoel|Virgilio Noel|Encarnacion, Paraguay|602|621|4531
+170159533|Belalegria_|Belem Alegría|Querétaro, Querétaro Arteaga|128|239|1600
+921414256146468865|ManoloQ5|Manu|Lannisport|334|198|14496
+1160370006594658304|Santinoguillen1|Modo aladdin|None|304|350|6810
+1210041263975804928|MarbinArrecis11|@MarbinArrecis1|None|10|32|3186
+1228496462109081600|HeyManny710|schlong|None|6|87|37
+1211704263425970177|FitManDan1|FitManDan|None|16513|8|7016
+316705574|davidhernande39|David|Yucatán, México|741|871|48769
+788769279462240257|Caromatias02|Matías|None|718|502|46529
+1451390622972227584|GashantiC|Marcelo Gallanti Gallardo 💛🖤|Buenos Aires, Argentina|307|413|4561
+271257487|cesar_espadas|El Cesar|Mérida Yucatán|266|458|15261
+199911543|alissoooooon_93|Alisso 🇾🇪|Cajati - SP|444|419|84885
+128051921|Slash_alex007|Alejandro Kaiser|En mi casa|65|528|686
+187163917|drummerguaro|Kerry Rojas|Barquisimeto-Venezuela|885|1569|15621
+1178997974321520642|CsarBarragn9|César Barragán|Bogotá, D.C., Colombia|54|372|2882
+1106307067|MayckollArteaga|May|Medellin|55|461|2377
+389264933|Fregue7|Fernando Reguerin|None|57|512|2589
+1034907148730486791|messisabalero|agustín ⭐|donde vaya eduardo dominguez|1581|1473|28120
+2769478040|AS_Colombia|AS Colombia 😷|Colombia|81579|368|261937
+151716240|stanforgene|ximena rodriguez|los andes|55|40|2886
+1084204916460142599|gabimiliann|gabii|None|146|514|4940
+1191735084602331136|josegua63508501|Frijol de a Libra|None|444|571|21436
+50029303|mangelacosta|Miguel Á. Hernández|None|683|782|16047
+1442698005124055040|SabaKhati|Saba Khan|None|15448|53|4518
+285690736|davidpoveda1|David Poveda|None|51|455|5964
+189749837|Torito_Grazzo|Tommy Grazzo|Guayaquil, Ecuador|533|368|69025
+153502211|dimabordo|Dima Carp|Buenos Aires|233|1266|9700
+3086531465|DanylCarreno|Danyl Carreño|Talca, Chile|682|0|7166
+1387451504450314243|Nickrom03220796|Nick romero|None|63|420|24715
+495490390|Jonathan_Chika|J O N A T H A N|Guagaquil-Ecuuador|1442|995|22479
+473216817|CaracolDeportes|Caracol Deportes|Colombia|356759|306|196009
+1178158268348280832|alexy_moises|Alexy Moises Orellana Anicama|Lima, Perú|96|2373|9593
+998767599595876352|sulaymanovv|Sulaymanov|None|67|88|588
+524531680|SC_ESPN|SportsCenter|None|2220732|21|813409
+945683216278618112|Gabriel48617755|Gabriel|Miguel Hidalgo, Distrito Feder|206|484|14422
+293863740|lorbalfigor|Lorenzo Figueroa Orrala|None|1210|3357|253605
+1335117868418158592|AficionadoAzul_|UnAficionadoAzul|None|196|687|2435
+958895150|cruzfran12|francisco cruz|None|5|36|759
+185809032|NFLLive_esp|NFLLive_esp|https://www.facebook.com/NFLLiveespanol|117886|144|59231
+1276980320412348417|EdwinLu59453570|Edwin Luna|None|17|100|1542
+1331912375876923392|Jose44466164595|Jose444|None|123|112|43659
+1561891484|EstebanCASM96|E. Gonzalez Font|Simoca-Tucumán- Argentina|1669|1186|29777
+344962636|CeratiMartin| Martin Molina™|Buenos Aires, Argentina|507|312|55196
+202174861|Joaco_Cevoli|Joaquito🇸🇪|대한민국|4262|3868|69416
+1330254059660566530|jose57347766|jose|None|13|109|35
+3093873442|DJHaroldMax|Harold Steven|None|8|99|58
+138608019|Balzajq|Jorge Balza|None|4534|3899|133118
+3151448730|jsarmiento9125|Joshua|None|36|846|3277
+1056350930|QueGonorrrea|Alejandro 🎄|None|281|61|6040
+1413234942|ElizaC_13|Elizabeth Cabezas|Caracas - Venezuela|133|942|1379
+1307487095284527105|satalionelmensi|starpunk|Chicago, IL|25|224|3224
+2555660687|Apon_Fabian|A P O N T E|luque|301|683|1657
+263308500|YulioNavas|Y u l i o 🥽|Costa Rica|4236|3794|108906
+3442682416|JorgeParadaR|Jorge Parada Rubio|None|311|1312|29244
+101905910|LSuarezGaona|luis gerardo|None|651|927|22249
+2479668661|MauroCAT1913|Mauro Gigena|cordoba capital|684|1462|2950
+1346915295886069760|BengstonPipota|CHOCO LOVER|None|163|345|1653
+320929897|EverardoHerrera|Everardo Herrera|Costa Rica|25896|432|86184
+358940712|miguel_cortessi|Cortessi|Aregua-Paraguay|1425|1111|66893
+1411710873505259525|Ferroneta|Ferroneta|congourbano|130|129|7808
+948383416185212928|altamirano_gian|Gian Altamirano|Lima, Peru|1549|2526|64430
+101299287|gerardo_cabrera|gerardo cabrera|None|137|275|679
+67767507|oOoTToOo|OTTO CRISTIANO|None|307|2030|74041
+1062975820707311617|ashley_fut02|Æ𝙨𝙝𝙡𝙚𝙮 → ❤️|Laredo, TX|1403|572|24755
+187982918|brypmc|Bryan Carrion|Quito-Ecuador|411|4147|18039
+1290249372740067328|Victor_EDguez|𝑽𝒆𝒅𝒕𝒐𝒓|None|7|147|844
+891694144522866689|RuriK_777|RöK|Raccoon City|60|575|866
+2560205706|efrenmonreal|Efren|None|246|2932|34100
+1424088314592829442|ercancan1905|Ercan GS🇹🇷🇹🇷|İstanbul, Türkiye|304|2697|11032
+2298936150|FloresKyo|Richardtextex|None|29|421|614
+65809559|JoaquinPerezG|JOAKING 👑♉⚽ Le Grand Dobermann 😎|Pereira y Bogotá |8081|5070|143276
+241717584|geovaniglezp|Geovani González|Cuauhtémoc, Ciudad de México|95|1093|6151
+1212986485734952960|save_elaskarr|saverio|Ciudad Autónoma de Buenos Aire|29|203|1689
+882816350141415426|BrianEnrique90|Brian Enrique|Valencia, Venezuela|26|61|253
+1303904858450391040|juanpablo_1924|Juan Pablo|None|93|265|5320
+2267157266|griss01r05|Lesly Rodriguez|los angeles California. |1320|3611|3939
+1201125531279855616|pau77dom|j_iparraguirre|Lima|23|313|2517
+1604116038|JFGutierres|Fernando GR|Estado de México|574|2634|4314
+587527737|Edvl21|david vargas|None|75|807|2562
+1410363573885341698|WaldoCABJ22|WaldoCABJ|None|13|95|130
+67767507|oOoTToOo|OTTO CRISTIANO|None|307|2030|74041
+1040613870|Edulev96|Eduardo|None|105|438|7724
+2196197942|MLeyendasFutbol|Morelia Leyendas Fut|None|5483|1201|21163
+1330339046325968899|wjramos_01|Willian Ramos|New Jersey, USA|4|41|88
+1380558469745491968|carlUs_1924|CarlⓊs|None|96|197|3850
+910956233640828929|kenankcmz|Kenan Kaçmaz|İzmir, Türkiye|150|197|4133
+1330008274163396608|Ren933Bv|Ren933|Mexico|79|1546|1696
+844855633|fabu803|Fabian Ponce|Lima ,Peru|491|4990|36765
+1366377046579044354|EricSantilln2|Eric Santillán|None|5|321|15
+1180991956173955074|CarlosO38081633|Wheeler780|None|10|391|403
+344131378|ChukiNievas09|Carlitos Agustín|None|1337|1082|25505
+221489513|SANTY341976|ALEX|KITO / ECUADOR|107|251|7899
+428480636|alexibarra01|Alex Ibarra|None|389|382|42313
+1330008274163396608|Ren933Bv|Ren933|Mexico|79|1546|1696
+1042130148466798592|BetoFire777|Alberto😵‍💫|Llanfair Pwllgwyngyll, Wales|187|197|7742
+1379854147097333764|DRlIlIlIlIlIlIi|DRFRANCISCORH|None|1548|1824|12917
+1389112198824292355|Futbolde_eggsss|𝐅𝐔𝐓𝐁𝐎𝐋 𝐃𝐄 𝐄𝐆𝐆𝐒𝐒𝐒|None|86|94|780
+3303928584|OzielMorales5|Ozzi|Nuevo Laredo, Tamaulipas|37|291|280
+430170687|rrvillagomez|Roberto Rodríguez V|None|1981|3810|366500
+1010415915928838144|FelixVa13668124|Felix 😎|None|32|77|10542
+276561979|DerlisJosePy|Derlis José Ferreira|None|208|206|2116
+110472512|virusazulcrema|JUANITO ROMERO|None|258|2968|13489
+1366604019158962179|FabrizzioAgust2|Fabrizzio Agustin Scamarda|Buenos Aires, Argentina|141|678|17613
+1105356674259398657|calingoodman|Calin|Guadalajara, Jalisco|41|999|2831
+1385351121603076101|tntsportsmex|TNT Sports México|None|38350|23|10132
+733118251102818304|educrema2209|Eduardo Zambrano|None|58|347|1313
+1435137573542928385|MehmetB45333694|Mehmet Balci|None|90|1082|2509
+1211531277867765760|renobeingsimp2D|Reno|Matamoros, Tamaulipas|175|177|1114
+246890707|Levante_TV|Levante TV|València|20090|1884|47790
+354148849|JuanFueyo10|Juan Álvarez Fueyo|OVIEDO|413|673|6098
+1075599366717607937|CM_ATOMIC|MM|Nuevo León, México|19|80|771
+3893390728|simoncoll07|𝙎𝙞𝙢𝙤𝙣|Venado Tuerto, Argentina|1002|789|13173
+1044298091518717954|rolarias_|Rodrigo Arias|None|1258|293|4806
+558378570|Cris_Luis1109|LyC|None|85|483|805
+2734422803|KaryAlmagroH|𝕶𝖆𝖗𝖎𝖓𝖆 𝕬𝖑𝖒𝖆𝖌𝖗𝖔 𝕳𝖎𝖉𝖆𝖑𝖌𝖔|Quito|2388|1740|18659
+1220879853412585474|Fabian16399882|Fabian|None|74|106|1837
+1326255540700389377|bolivarianove|El Bolivariano|Caracas-Venezuela|108|151|1741
+420792184|abramqc|abrahamquiriz|Puma, Tlaxcala|212|2867|2643
+1258412725316837377|cornelius3030|Cornelius3030|None|25|205|18200
+306527121|estebanquincar|Esteban Quintero C|Rionegro Antioquia|10022|2499|15868
+251344981|asking987|Eber J. Hernandez|Monterrey |441|422|58382
+1296164312554274823|manulgi|Manulgi|Sarandí|207|610|11657
+54599618|cantogoles|Daniel Nohra|Miami, FL|4390|601|37112
+28190201|TonioVR|Toño VR|Lima - Perú|1336|1390|92113
+2995196201|Ppluche_Martini|🏳️‍🌈 Pepe Minogue|Mérida, Yucatán|2426|1572|33189
+158996585|didodu|Diana Duran|León, Guanajuato|135|275|3523
+270105980|Locura_academia|Locura Académica|None|18293|169|12915
+157858250|Vannerizos|Vanessa Rizo♡|instagram: vannerizo|534|545|6054
+2710671410|jjahg10|Huerta|Tijuana, México|1399|2068|31888
+323983291|mikediazok|Mike Time|Veracruz|196|182|14713
+933032162856665088|iamxlusho|Luis Yauri|Lima, Peru|30|251|2056
+3196506883|reggaeatlas1|𝓱𝓾𝓰𝓸 𝓪𝓻𝓶𝓪𝓷𝓭𝓸 1951 🔴⚫️|Guadalajara, Jalisco|925|5001|30311
+1388955033983717382|DTElVigia|Deporte Total El Vigía|El Vigía, Mérida, Venezuela|32|29|469
+1358833528771915778|06uzhand0g4n|Oğuzhan Doğan|None|40|72|790
+1352367906387075072|ldaoutofcontext|Alajuelense Out of Context|Alajuela, Costa Rica|3113|226|3159
+542017355|PATRlAGRANDE|PATRIA GRANDE|Argentina|24233|26848|74833
+977904758|ayseglylmaz9|ayşegül|None|507|1060|21127
+3164377728|sergioavl136|Diogenes|None|228|199|25711
+1324689672|ValienteJulian|julian valiente|None|3823|445|1026
+3064632159|CastilloVanesa_|Vane|None|829|839|8788
+71177104|Fernandob84|Fernando Benitez|None|181|193|18139
+1141138022|DRSanchezviesca|D.R. Sanchezviesca D.|Torreón, Saltillo y Monterrey|95|348|7425
+58277892|umpiredennis|Robert Acrota Umpire|Arequipa|62|461|45258
+732375934485987328|Fernan12357|Fernando Islas|Distrito Federal, México|40|131|4084
+1434902617075892224|djKypson|Victor Ramirez|None|13|644|31
+2307579876|69hoochimama|peter🇲🇽|None|189|175|19212
+438626109|carlosmarcano16|Cj|ANZOATEGUI, VENEZUELA|90|1236|1212
+1215572216278126592|totardo_|Leandro|DE BOSTERO|529|98|5005
+103641058|AyPinchiYorch|George Q.|None|165|187|5089
+940402453996101632|McLovin_Posso|Stiven|Colombia|45|433|1944
+111989246|ALDOOROMAN|Aldo H. Román|Mexico|39|142|125
+199584068|antonivalldeper|antoni valldeperas|None|297|572|6837
+145625670|phcastroalves|PH G🅰️LO|Curitiba, Brasil|6560|4797|26820
+1086116161949978625|fc_barzcelona|M🐐|None|93|295|4562
+1370254679951732737|Zurddo2050|Zurddo|None|134|159|2079
+175460278|HABS1201|HABS|Honduras|263|1904|21415
+1458863527918129153|AlexFlo85806168|Alex Flores|None|1|25|174
+4832842449|Henryernestoag2|Henry Ernesto Aguilar|Comas, Peru|24|1045|707
+1466443547586883589|colorado_pardo|Camilo benito Pardo colorado|None|1|44|25
+1310287361096343552|KkarlosdGortari|ғʀɪᴅᴏsᴏғíᴏɪɴésᴅʟᴀ✝ᴅ'ᴍᴏᴄᴛᴇᴢᴜᴍᴀ ɢᴏɴɢᴏʀᴀ ʏ ɢᴏʀᴛᴀʀʏ💚|Suiza       Te sigue|1711|1090|9846
+865781689|jalvarez1901|Jonathan Alvarez|None|179|567|31922
+726902037078626304|TulioBanner|Tulio Banner|None|8|284|7281
+1381042215384985609|sailencrai|munღ|stay y moo|213|238|11911
+71303860|TUDNMEX|TUDN MEX|México|4429555|347|551921
+1376610174169923590|Melody_Viera_|Melodía💃🏻|None|387|405|4718
+2636642271|EmmaHernan27|Emmanuel 🏆🌟|None|7490|412|33071
+189028921|VladimirPozoC80|Vladimir Pozo|None|6073|3791|55587
+443098298|EddwardVII|Ed.|Mexico|111|292|5089
+475481846|3lPerseverant3|DiegoBcO|Lima, Peru|91|411|8842
+118085767|LuisOmarTapia|Luis Omar Tapia|Miami, Florida|847162|6410|52008
+62520346|cassioarreguy|cassio arreguy|Belo Horizonte|10732|551|5901
+89225092|TUDNUSA|TUDN USA|United States|664677|980|346150
+1466074968765173765|JJordan_br|Jordan M|São Paulo SP|0|26|146
+916087252962377729|norteadito|José Campeón Rayado|Monterrey Nuevo Leon|1713|4072|14340
+1387197756989661189|LuisRiv75373503|Luis Rivera|General Escobedo, Nuevo León|81|625|2755
+995872609656025089|iHumberto13|Humberto🧑🏻‍🎄|None|1544|969|138099
+1386044390494199809|AntonioMazzel16|Antonio Mazzella|Taxco de Alarcón, Guerrero|1611|2961|7686
+165258289|ronazamm|Ron|None|507|1504|126241
+1314095265910075392|NahuelPino11|Nahuel Pino|None|75|154|459
+400546338|S8_CU|Yu|🇲🇽|283|1077|4701
+254376239|maxtapia10|Max Tapia|None|146|302|2491
+358307610|Mabe06Mabe|Mabe Silva NOB|C.A. Buenos Aires   Argentina|991|1490|20704
+1155166764650631168|RolandoFlamenco|Rolando Flamenco|San Salvador, El Salvador|546|521|18763
+2385849853|Wootzii|Y era del signo libra la que yo quise ayer |México |386|65|7238
+215791551|AtXime|Ximena|None|384|72|47479
+2994752069|disis_diana|el Chucky Lozano|México|313|138|25967
+3922050177|gulimeiser|Jose Meiser 🎅🏽|Bucaramanga, Colombia|44|420|2014
+136148901|Diego_Didak|D  I   E|Barcelona, Spain|275|932|13294
+868951269653839873|VickCristiano|VickKeller|None|255|389|30380
+552280672|liscurvelo|Te Amo 🇻🇪V E🇻🇪|Los Angeles, CA|376|1014|13070
+1401761874262192129|Pmcis2|Pmcis|None|21|784|274
+742759177517469696|xerath6773|Serhat|None|70|229|230
+2500625209|AnatnasEfrain|efrain gonzalez|None|2416|5001|26310
+245020508|Samantha_rra|Samantha 📷|Madrid, España|676|612|14837
+868951269653839873|VickCristiano|VickKeller|None|255|389|30380
+21711729|laaficion|La Afición|Ciudad de México|427413|88|553261
+1276740296236244995|Michel58387941|Michel|None|39|591|5299
+547145125|wolbs10|HBWolburg🐢|None|578|2528|19075
+1058419118|ResendizcJ|Jorge Resendiz Cárdenas|México |1266|5000|77978
+39339359|sakaidiaz|JeroChase|Bogota|426|443|81125
+245631874|el_julao|Julao Montemayor ⚪️|Monterrey, Nuevo León|1685|2252|22862
+989998679649083393|AngelDuque_19|Angel Duque Alvarado|None|358|1877|9803
+2604403656|maxsamano95|Maximiliano Peña|CDMX|1082|997|23534
+1268729861767663617|YordhiF|Yordhi Fuentes|None|78|123|2112
+100299653|Yo__Cachetitos|Brendita|Guatemala|1547|2065|107084
+1204270369244418049|mrjanevans|levi|Los Angeles, CA|4|92|622
+1079602786210381829|CabreraHasandy|Hasandy Cabrera|None|50|487|324
+3265533456|BismarckVaz_|Bismarck Vazquez|Guadalajara, Jalisco|5|83|1355
+160359610|LAGUAS|@laguas|None|267|1342|17583
+302083292|Enanin_V|E.V.R 🇲🇽|México, DF|1434|1644|91876
+127531811|malelementop|M S.A. R🔴⚪🔴|lima - Peru|66|377|9200
+1388694687259758593|formula500|Formula 1 ⚪|México|30|113|1025
+3237047135|Rodrigosegtz|Rodrigo Oseguera|None|118|1411|12259
+1556758824|jazielgzzmty|Jaziel Gzz|Monterrey |218|392|2304
+607599722|DavidRafi8a|RAFAEL DAVID ARÁMBULA OCHOA|Cúcuta, Colombia|91|526|3503
+1407881908495826944|NicolasGuerraG1|Nicolas Guerra Garcia|None|5|49|89
+109119811|leoncio_coro22|León Coronadeño|San José, Costa Rica|355|1068|45583
+287369079|comealonewme|yeni will be okay|where the sea sleeps|1194|1031|91629
+1464665565251919878|MaryCapozzi2|Mary Capozzi🇻🇪🇮🇹|None|15|40|371
+1173693773093769216|AndresZentenoPr|Andrés Zenteno Pérez|Cosoleacaque, Veracruz de Ign|167|205|339
+100708073|JoMorelli|Morelli|Tibás, San José|162|642|10885
+1276740296236244995|Michel58387941|Michel|None|39|591|5299
+312345403|mariowlozadac|Mario W. Lozada C.|None|390|664|100843
+781292336|sergioas23|sergio  medina|None|62|178|1999
+113844014|jash0178|jorge a sanchez hdz|guadalupe n.l. mexico|2|80|211
+619152394|ArbeloaBdO|Max Power|None|211|1595|29895
+1373186193685381121|Miguel_AlvarezD|Miguel Álvarez|None|172|337|2044
+1141174007737147392|realVoltronluis|Luis Ulloa|Tijuana, Baja California|218|799|8299
+245705126|victorsaulh|victor saul Hernande|guadalajara jal.|409|859|9648
+1463964413392793600|PinzonDolores1|Pinzon Dolores la coach|None|67|230|1619
+709722325223141376|MarianoCagnoli|Mariano Cagnoli|Ig: mariano_cagnoli|481|309|6042
+1309870655664525313|santi0711c|Santiago|None|15|92|1243
+3402989183|pablomdd6|Pablo Moli|None|244|884|4618
+890367976683208704|eli_jmor|Elizabeth J M|Poza Rica,Veracruz de Ignacio |1142|5003|66298
+1035785223655567360|Azuldec98110197|Azul de corazón (1/1)|None|221|244|10187
+958314609747820546|ASainzBScP|Angel_Sainz_B_ScP|None|133|433|57688
+1250155557169889282|Brandonhxtreme|Brandon Hurst 2️⃣K 🇸🇻|San Miguel, El Salvador|2267|810|7497
+154719352|PrisciJaikel|Priscila Jaikel|San Jose, Costa Rica|16269|1990|46835
+569718780|buyuktaraftar54|Büyük taraftar|Türkiye|450|522|2402
+4837007362|milloscar1978|MILLOSCARP1978LUISN|Bogotá, D.C., Colombia|12|264|151
+257743498|DanielPinto7890|Daniel Pinto|Melbourne, Victoria, Australia|399|842|22885
+1275635081227505667|AlejandroDelil1|Alejandro Delillo|None|412|776|5644
+468698682|birkanhasdemir|ᴛɪɴᴛᴏ Beşiktaş 🦅|Şebinkarahisar, Giresun|322|266|4266
+301243618|richi237|Ricardo Gallegos|Delicias, Chihuahua|240|933|4550
+1160923564033368064|Die_Gonzal|🎰🏴‍☠️El Matador🏴‍☠️🎰|Bogotá, D.C., Colombia|168|624|7823
+118864232|hazper41|Hazper41|León Guanajuato|296|1157|46055
+323017610|steveandrews93|Steve Carell’s cumrag|Boston, MA|225|2781|18990
+1326797467413835777|alfrezzzz2|ª💤|None|163|180|186
+424289637|aluzyn|Zam|None|68|345|1959
+480126980|CR7_Gabrielli|Marco Gabrielli|Lima/Perú|69|1843|6668
+1388630526563659777|ArloSantiago|maskedmanll|None|5864|89|1458
+1397519218912993282|JXenpelar|Joxepa Xenpelar|Errenteria, España|9|68|354
+1150916992108572672|EddyFunez99|Eddy Funez|Honduras|251|379|5163
+118460673|elgocho_78|EL Gocho del 78|Venezuela|374|793|46789
+557153454|7DRuiz|Duvan Ruiz|Cali Colombia|7424|5518|9316
+1347740433363951618|EstoyConTrump_|Yo Estoy con Trump|None|369|830|357
+3810817043|yaekfps|Camilo Barrera|La Serena, Chile.|12|181|51
+158732968|Aficion_Central|Afición Central|Guayaquil, Ecuador|116633|1155|222243
+3633130040|LuizinhoMX|Luizinho|Ciudad de México|148|197|5568
+1042172687655690241|jossDRossi|Joshel Ross|Guadalajara, Jalisco|35|713|1415
+266831477|kevsorf21|Ⓤ Kev|Lima Peru |258|347|21373
+1466559646798331907|nlzlai|Nlzlai|None|1|21|103
+297760333|EdwinFierro|Edwin Fierro|Culiacan, Sinaloa, Mexico|157|722|7265
+2768249649|leguedgar|Luis Garcia |None|3|24|34
+452887199|ResulovZiya|ZiyaResulov|None|110|310|2452
+92631181|abogaro8612|Ed Garo Uscanga|Veracruz de Ignacio de la Llav|356|368|6738
+404068554|coka_fig|OR7|Guatemala, City|108|287|15532
+52461337|albertjdt|Alberto José|Táchira - San Cristóbal |2235|707|127428
+2457445722|MelchorBenito|pequeño bastado|None|733|3627|55305
+1413337866|jlnieto_|JLNieto|None|121|30|57747
+799512161177452544|FridaGalo13|🚩O Meu Presidente É Lula!🚩|#EsquerdistaSegueEsquerdista|7836|7375|220163
+971871058159652864|Franferro77|Fran|Covas Viveiro|8|32|1004
+137234490|AdanPena_21|Adán Peña|México D.F.|307|307|113346
+126770525|ElMamberroijr|El wey que le da Retweet a todo.|Mexico|527|501|13915
+326898592|edgar_santin21|Edgar Santín|Tejupilco de Hidalgo - Toluca|1021|1161|5087
+1369876426925608962|EYMS1707|EYMS|None|101|141|374
+773658359119671296|DavidBuch8|David Buch|españa|37|213|4065
+189165014|juliup7|Goddo|None|373|296|34476
+1368753683316490241|ArielFF43528548|ALAN STIVEN|None|75|1074|1060
+1878798150|JesusBotelloAD|Jesús Botello|Spain|12968|3822|16759
+556537865|Twisterdrums|Twisterdrums|México|141|355|4090
+281367809|paulcmar|Paúl Cabrera|Medina, Arabia Saudita|52|145|7930
+1156393488|GSB_Gaziantep|Gaziantep Gençlik ve Spor İl Müdürlüğü|Gaziantep|2851|190|10792
+808095879626366976|loboPC19|Javier Sanchez|Tepotzotlán, México|566|1226|6955
+3385193291|carlos_laba|Carlos Alberto Cody.|Oceanside, CA|1296|2090|51269
+944892360|IvanElBlanco|Ivan 🤠|Tijuana-San Diego|515|401|9334
+713510951455105024|falivrofficial|fali|Boca del Río, Veracruz de Ignacio de la Llave|171|1693|25402
+2147753203|BrunitoSar|Bruno|None|228|234|27645
+346683914|mariaguileraf|Mariana Aguilera|Paraguay|2351|874|126969
+219734709|beatriz72sfc|beatriz ♥04•03•2012|sevilla|120|396|6884
+18881375|symnogluekrm|ESeymen|Trabzon, Türkiye|1039|2837|21588
+1152787627696898054|3miliano_vargas|tuko|narnia|4|45|118
+98247169|cemjunior|cembey|None|375|670|52631
+575408411|alcides_maestre|Alcides Maestre|Paris|1120|5001|84274
+2730598076|Chiclosaurio|Mauricio LeBrone|North Carolina, USA|2234|2276|149489
+1022892888781479936|Elchatosal|Papi feliz|None|29|24|24312
+134285238|coesle|CO.ES.LE|MÉXICO|63|376|23548
+773931659762728960|Selcuky1071|Ⓜ️Ⓜ️ SELÇUK|İstanbul, Türkiye Giresun|834|867|7034
+1465888474372923396|JeremiaRomulo|Jeremía Miramón Rómulo|None|0|76|2
+1211273561375047681|glunaglez|Guillermo Luna González|Madrid|490|1945|860
+2691580686|emiilio2014|emilio🧉🧉🧉🧉🧉🧉|Corrientes, Argentina|2641|4869|55066
+2234055782|renearaujojr|René Araujo Jr.|Cojutepeque, El Salvador|439|423|2679
+1361156564|freduardoms|nistagmus🍊|México|330|785|13868
+867392280|LatinoAzul29|Miguel Eddie Navarrete 29|Denver, CO|915|4244|137182
+291759967|ipl71|IPL71|Comunidad de Madrid, España|179|239|21783
+611971278|unachiquisays|🐺🐯|Callao, Peru|653|508|48880
+830157852027285504|Lda1921|CARP|None|77|340|5737
+958350037930725377|lmhernandezros1|Luis Manuel Hernande|None|245|369|10549
+1442918597811134464|RecepBalcidag|Recep|None|0|23|3
+494882612|AdrianGC91|Adrián Garrido|Málaga|716|3870|40225
+723943159139454976|giovani_velasco|Giovani pero no Dos Santos|None|39|90|4958
+538127387|4Alberto_l|alberto loureda amor|None|78|386|3315
+1112875661138579456|THEdotBest|Best (Social Media App)|Los Angeles, CA|126|5|62732
+1112875661138579456|THEdotBest|Best (Social Media App)|Los Angeles, CA|126|5|62732
+1112875661138579456|THEdotBest|Best (Social Media App)|Los Angeles, CA|126|5|62732
+1253329589939535873|tortoligay|Tortolìgay|None|177|4696|2921
+1328761576531353601|sapa1924|Clar|Barranquilla, Colombia|93|186|676
+1196097750825422848|sonmuhurhaber|Son Mühür|None|14044|166|43911
+1397431215423172609|JGuiller4|J.Guiller|None|16|85|331
+1192120029950681088|mtzok_|anthony steven|No idea|241|352|43978
+2300501173|BestTLD|•Best Top-Level Domain|None|3087|4563|46772
+353291021|crisojoslocos87|Nicolás_stummo87|argentina|34|196|376
+2300501173|BestTLD|•Best Top-Level Domain|None|3087|4563|46772
+798333001|lolofernandez88|lolo fernandez|None|244|71|36711
+230032610|ferqvafermj|El Abogado del diablo|Nuevo León, México|109|570|562
+141645736|JorgeCF9|Jorge I. Cáceres|Moca, Dominican Republic|385|238|18699
+285083342|Jose_lg|JL FCB|Catalunya|373|859|74299
+1199164472545435648|lookeasyfuture|JHONNI. XO|Lejos de la realidad.|186|217|12779
+2948595275|BedmarLola|Dra. Bédmar|Madrid, Comunidad de Madrid|4260|1062|64521
+871039181690163201|blend_dor|blend_dor|New York, USA|118|1525|63862
+2338348428|FremontCyril|CYRIL FREMONT|Paris, France|2054|4317|25471
+918135191578619904|temoenciso|TmoBarba|Upland, CA|918|417|7457
+4408004861|JorgeRubio99|Jorge Rubio|None|498|1214|7790
+3096113062|daniel83m3_d|Felipe Marín|Bogotá, D.C., Colombia|232|1073|4310
+703573773405044736|luuciag02|lucia y se apagó|None|144|96|10252
+1241924284437725189|kedecir_|M.s|None|110|309|1528
+220226275|UnSincelejano|Omar Dales Martínez.|Sincelejo, Colombia|1186|1075|49096
+997908628047843329|marmoleado2018|PerUano|Peru|53|3951|59534
+841356869432168450|RamonAgull2|Ramón Agulló|None|73|55|4701
+743984982|Sebas_Puma99|Sebas 😼🏆|🏡|430|1102|112721
+60414505|abelgonzalez|Abel González|Ciudad de México|1201|4996|183025
+1208154411119390721|William20737447|William|None|74|696|22609
+449757274|DonDavicin|David 🦇|None|612|1457|58073
+1256559688101044224|Incrediboy81|@🅸🅽🅲🆁🅴🅳🅸🅱🅾🆈81|None|354|398|3152
+69961395|bofogol|ju tony to|h. matamoros tamps|195|2179|5386
+701359512|alvarojoseenriq|Alvaro Enriqez Piney|Jove, Gijon|440|483|47487
+1055652935324065792|BayardoAldo|Aldo Juárez Bayardo|None|5|161|191
+1293626890113212416|Tournesolpitufa|M i t 🎄|Putisecta |1703|813|43031
+1733895576|nefego1972|Nelson Fernando|Pereira, Colombia|229|1926|21254
+1460869627404296194|hayatse69437775|Zafer Birsel|None|118|337|426
+1266124114068008960|metinhunter|Metin|Sydney, Australia|2208|2313|11146
+1367097150396637184|ArtistaJuan1|Por la 9️⃣🦁🏆|SFR GTO- Caborca Sonora|27|143|2643
+1460869627404296194|hayatse69437775|Zafer Birsel|None|118|337|426
+1293747388411260928|MoscosoBueno|Jean Paul Moscoso Bueno|Ilo, Ilo, Moquegua|89|2076|188
+1429895603744612360|NazabalMikel|Mikel Nazabal|Usurbil (EH), Basque Country.|143|643|464
+2618727825|luisd197|Luis|None|153|438|5510
+632965948|BrometheusJay|Jay Brometheus|None|377|2095|413
+1000498747196002304|BuffetDeWeyes|BuffetDeWeyes|None|108168|118|2749
+951166648156872704|babbayarisi|•🆁🅰🆂🅿🆄🆃İ🅽•|Afyon,Türkiye|5|70|2977
+494882612|AdrianGC91|Adrián Garrido|Málaga|716|3870|40225
+1443898146367627265|SATURNIANINTJ|blodreina|any pronouns|281|169|2486
+3033134415|aksaraybel|Aksaray Belediyesi 🇹🇷|Aksaray|23251|70|19111
+3313638893|deportubeCreal|DeporTube Ciudad Real y Castilla La Mancha|Ciudad Real|3020|3020|70093
+11472822|sunday_u2|davidac|catalunya|110|226|14539
+1345837920700264462|Joelezequiel32|Joel |Rosario, Argentina|39|214|5761
+104348739|Phteveeenx|SDS | Phteven|None|190|455|2077
+1160015092404146177|Joseph_3198|Joseph Aguilar|None|217|202|2296
+1617884742|emiliopereziu|Emilio Pérez|Emigrante retornado|21063|9316|63459
+1111297037390237698|tbjk89|Turgay Bekdaş 🦅🇹🇷|None|701|792|469
+1312127943678844934|GSB_Petrolkent|Batman Petrolkent Gm|Batman, Türkiye|457|280|1106
+542724321|_Barbudo|🗣️El Barbas.|La Ponía (A Cardo), España.|1015|270|34301
+1244724834208296964|KocaeliYurt|Kocaeli Yurt Gençliği|None|91|83|79
+1406578949271048192|eminetaskesen__|Emine Taşkesen|None|1581|2011|17972
+4496179816|FT_Total|Fútbol Total|None|22004|473|160067
+1125753417052368897|CevoPrekazi|cevo_prekazi|None|100|176|826
+1364643075398787079|nyoticiaspy|Noticias Paraguayas|Pwawawuay|73|32|105508
+196467490|jcantuk|jorge cantu kaufmann|None|132|989|71787
+1307630180551270400|Demylifee|Doctor|None|44|137|2610
+944539650194051073|Bilalka12508280|Bilal karagöz|None|6|25|11
+347192529|TheIsra1994|📽TheIsra1994 Youtube📽 VCF⚽🦇🦇⚪⚫🟠|Barcelona|8935|1835|56398
+400144749|tulugbaba|MANAGER|Ankara|768|909|15286
+1268668761000816640|JessDav92249738|Jesús David|None|4|149|329
+1282903052102639616|vidal1901|VidAL⭐25⭐|None|220|325|4598
+4131134602|lepprincebenign|Lepprince Benigno|None|1069|146|14965
+3551926812|rak_mana|rak mana|Bangkok, Thailand|728|4916|16438
+418569515|klau_buca|DACU|Sarmizegetusa, România|102|237|9974
+228450557|abels_00|M.I.S.-|Madriz.|456|1089|38163
+1103950146436513792|Blanca20836568|Blanca|None|950|1268|95996
+1462109126033559552|Alberto27903001|Alberto|None|1|102|178
+260428719|iddaa_ediyoruz|Spor Habercim|None|310|128|540
+1529271409|orula7754|Leo Castellano|VENEZUELA|1015|3169|26142
+382204249|jorsue1|jorge  salvatierra|puerto vallarta jal|15|282|210
+1440041114|Igct2014|Igct2014|None|699|1119|60874
+947899183|LengokoakKE|Lengokoak K.E|None|609|122|1051
+1133641687753011200|Alejo17189|Ale|San Rafael, Argentina|296|176|29237
+1150710398531883008|KeanuRe26705479|Keanu Reeves|Porvoo, Finland|107|833|12951
+1321315917251387395|SandraC30167302|Sandra Correa|None|109|417|2840
+74675429|turkcehaber|Türkçe Haber|Istanbul|24027|22|97383
+1262199038599929857|DajomeRonaldo|Ronaldo Dajome Castillo|Cali, Colombia|85|388|7416
+1092528454925455362|medyaelicom|Medyaeli|Turkey|520|108|8723
+4764377716|SaldirGLTSRY|SaldırGALATASARAY|None|34648|18836|19389
+1561418010|elagente72|Jorge Fabián 🍀|Buenos Aires MERLO|578|814|115488
+1124058213345898521|FachaFantasma|FantasmaFacha|None|215|967|38705
+128706611|elimariper|Elizabeth Perez|None|1338|3372|32397
+421943816|buraakcavdar|burki|Ankara|557|351|11304
+1165173035961159680|AngelMelames|Miranda Piedra|None|43|265|2612
+2313627528|AYOROACHAVEZ|MARCO CHAVEZ AYOROA|None|577|2405|63774
+82629241|Galaefendisi|Gökhan Dilek ⭐⭐⭐⭐+2|Marseille, France|1354|443|64826
+115423722|MikeVazLop|Miguel Vázquez|None|71|220|5480
+607936149|francozepol|Francisco López|None|220|1245|3833
+816726968079151104|memenstruacion|e s t h e r 🌙|Principado de Asturias, España|2067|799|57095
+1445858542687121409|hbrsarikirmizi|habersarikirmizicom|None|160|657|390
+192984085|FRD869097|Félix|None|264|609|8932
+430205096|luciaaltieri7|Lucía Altieri 🎃👻|None|362|290|27093
+571052421|posyanotelodigo|Pakekieresaberlo|Canarias|1462|1558|63237
+988690018611990528|kartalkoydu|BeşiktaşKartalı🦅🏆🦅|Antalya, Türkiye|236|236|775
+356125609|Aldo_Vazquez1|Aldo Vázquez|A Coruña, España|7857|945|58276
+287916709|femsara|femsdequalitatara|Catalunya|509|1754|11299
+57913242|dominikpanek|DominikPanek|Polska|5803|3768|124741
+334456843|Eduardo210785|Eduardo petterson|None|208|800|5219
+867977437711171584|daniregui|✵⁴ 🐯|None|840|2008|39166
+441071795|lulu6019|Lourdes//*//|Barcelona, Catalunya|1626|2842|224323
+3003979189|Lesliealvarezt|Leslie|None|131|77|2900
+88267081|ommarzinho|OmaR* Яzinho|Guadalajara, Jalisco|1462|973|72479
+1253320194006503424|Uzaro4|Uzaro 🖤🇪🇦|None|100|536|5258
+818936158952587264|bjkloveapp|BJK LOVE 🇹🇷|İstanbul, Türkiye|3096|3317|167921
+1191602854462709761|Gordon36764266|Gordon|None|202|225|21643
+1062575731379789824|CorreoIndependi|Correo Independiente|Argentina|763|227|2595
+14436030|elmundoes|EL MUNDO|España|4033657|1388|359514
+1233049274|Gesago21|Gera Gonz 🤠|None|80|476|15530
+1181098501104553986|JaimShemtov|Guillermo Maxwell|Ciudad de México|22|77|391
+1626732637|ShilikuAli|Ali Shiliku|Kosova,Prizren|643|441|44719
+1147596946875379712|FabrizioDC_|Fabrizio Domínguez|None|162|246|2829
+90526663|IBCarlosDuran|Carlos Durán Alcalá|ILLES BALEARS,Mallorca,PALMA|463|402|224
+293958592|YorulmazCenk|cenk|None|8|148|787
+936172343898136576|albarikoquee|Alba Mtz. de Santos Garcia|Vitoria-Gasteiz, España|393|1317|16629
+304117043|MatiiasAgueroo|Matías Agüero|La Rioja - Argentina|521|1042|29873
+552666380|61TuranTs|TRABZONSPOR❤️💙|None|3572|3456|97392
+757736951994650624|dashevil12|🐺Balto,Wolf,Velvela and Krystal💎|Corneria|1354|4713|68351
+3279994453|04e4c65ea005420|Jaime Morales|Distrito Federal, México|39|586|5901
+427026290|Martintorralbo|Martín|Cañete de las Torres|2606|251|15676
+1233049274|Gesago21|Gera Gonz 🤠|None|80|476|15530
+215925338|erdem_s_|erdem s. 🇹🇷 ☀♥️ 💙|Belgium|518|1448|4059
+1025768077|pdelafuente98|Paulo de la Fuente|Lima, Peru|112|350|870
+169691018|Soytwiter0|Moisés.|Toronto, Ontario|4350|340|3889
+1442919666066862080|Erhan73731905|Erhan Yılmaz|None|0|6|6
+1443531105345363969|yusuf33210|yusuf kılıç|None|1|2|900
+3073627371|Gdvl22|GDVL|San Miguel, Peru|64|544|8754
+1388667360911847427|geraldinooop|The Big Boss 😎|None|477|1199|2753
+307205788|GuillermoPazCfc|Yerba mate, droga legal 🌿|Merlo|361|1319|2436
+1101528002083594241|todxsporigual|TodxsPorIgual|None|1532|536|5549
+1043672090551967744|aposentosantan1|EME|Lima El alto Aposenton|96|445|14293
+2377253523|LuisMenotti78|Luis Santiago|Galicia, España|7441|2885|51655
+405320076|jchacon_05|Jeremy Chacón|Costa Rica|64|375|494
+1265571531868037120|GalaDutch|GALATASARAY HOLLANDA 🇳🇱|Nederland|233|418|2117
+25992620|turkce|Türkçe|Türkiye|436552|99|170521
+1259884872|RanTheman10|Ranferi Santana|None|263|892|26605
+1229947689384775681|AntaresX10|Antares❌|Bogotá, D.C., Colombia|502|534|12757
+424641410|Pablo_A24|pablo vigo gil|None|309|245|26474
+4360715848|AlbertoGrilles|Alberto Grilles|Valencia, España|176|343|1002
+1443898146367627265|SATURNIANINTJ|blodreina|any pronouns|281|169|2486
+3033134415|aksaraybel|Aksaray Belediyesi 🇹🇷|Aksaray|23251|70|19111
+3313638893|deportubeCreal|DeporTube Ciudad Real y Castilla La Mancha|Ciudad Real|3020|3020|70093
+11472822|sunday_u2|davidac|catalunya|110|226|14539
+1345837920700264462|Joelezequiel32|Joel |Rosario, Argentina|39|214|5761
+104348739|Phteveeenx|SDS | Phteven|None|190|455|2077
+1160015092404146177|Joseph_3198|Joseph Aguilar|None|217|202|2296
+1617884742|emiliopereziu|Emilio Pérez|Emigrante retornado|21063|9316|63459
+1111297037390237698|tbjk89|Turgay Bekdaş 🦅🇹🇷|None|701|792|469
+1312127943678844934|GSB_Petrolkent|Batman Petrolkent Gm|Batman, Türkiye|457|280|1106
+542724321|_Barbudo|🗣️El Barbas.|La Ponía (A Cardo), España.|1015|270|34301
+1244724834208296964|KocaeliYurt|Kocaeli Yurt Gençliği|None|91|83|79
+1406578949271048192|eminetaskesen__|Emine Taşkesen|None|1581|2011|17972
+4496179816|FT_Total|Fútbol Total|None|22004|473|160067
+1125753417052368897|CevoPrekazi|cevo_prekazi|None|100|176|826
+1364643075398787079|nyoticiaspy|Noticias Paraguayas|Pwawawuay|73|32|105508
+196467490|jcantuk|jorge cantu kaufmann|None|132|989|71787
+1307630180551270400|Demylifee|Doctor|None|44|137|2610
+944539650194051073|Bilalka12508280|Bilal karagöz|None|6|25|11
+347192529|TheIsra1994|📽TheIsra1994 Youtube📽 VCF⚽🦇🦇⚪⚫🟠|Barcelona|8935|1835|56398
+400144749|tulugbaba|MANAGER|Ankara|768|909|15286
+1268668761000816640|JessDav92249738|Jesús David|None|4|149|329
+1282903052102639616|vidal1901|VidAL⭐25⭐|None|220|325|4598
+4131134602|lepprincebenign|Lepprince Benigno|None|1069|146|14965
+3551926812|rak_mana|rak mana|Bangkok, Thailand|728|4916|16438
+418569515|klau_buca|DACU|Sarmizegetusa, România|102|237|9974
+228450557|abels_00|M.I.S.-|Madriz.|456|1089|38163
+1103950146436513792|Blanca20836568|Blanca|None|950|1268|95996
+1462109126033559552|Alberto27903001|Alberto|None|1|102|178
+260428719|iddaa_ediyoruz|Spor Habercim|None|310|128|540
+1529271409|orula7754|Leo Castellano|VENEZUELA|1015|3169|26142
+382204249|jorsue1|jorge  salvatierra|puerto vallarta jal|15|282|210
+1440041114|Igct2014|Igct2014|None|699|1119|60874
+947899183|LengokoakKE|Lengokoak K.E|None|609|122|1051
+1133641687753011200|Alejo17189|Ale|San Rafael, Argentina|296|176|29237
+1150710398531883008|KeanuRe26705479|Keanu Reeves|Porvoo, Finland|107|833|12951
+1321315917251387395|SandraC30167302|Sandra Correa|None|109|417|2840
+74675429|turkcehaber|Türkçe Haber|Istanbul|24027|22|97383
+1262199038599929857|DajomeRonaldo|Ronaldo Dajome Castillo|Cali, Colombia|85|388|7417
+1092528454925455362|medyaelicom|Medyaeli|Turkey|520|108|8723
+4764377716|SaldirGLTSRY|SaldırGALATASARAY|None|34648|18836|19389
+1561418010|elagente72|Jorge Fabián 🍀|Buenos Aires MERLO|578|814|115488
+1124058213345898521|FachaFantasma|FantasmaFacha|None|215|967|38706
+128706611|elimariper|Elizabeth Perez|None|1338|3372|32397
+421943816|buraakcavdar|burki|Ankara|557|351|11304
+1165173035961159680|AngelMelames|Miranda Piedra|None|43|265|2612
+2313627528|AYOROACHAVEZ|MARCO CHAVEZ AYOROA|None|577|2405|63774
+82629241|Galaefendisi|Gökhan Dilek ⭐⭐⭐⭐+2|Marseille, France|1354|443|64826
+115423722|MikeVazLop|Miguel Vázquez|None|71|220|5480
+607936149|francozepol|Francisco López|None|220|1245|3833
+816726968079151104|memenstruacion|e s t h e r 🌙|Principado de Asturias, España|2067|799|57095
+1445858542687121409|hbrsarikirmizi|habersarikirmizicom|None|160|657|390
+192984085|FRD869097|Félix|None|264|609|8932
+430205096|luciaaltieri7|Lucía Altieri 🎃👻|None|362|290|27093
+571052421|posyanotelodigo|Pakekieresaberlo|Canarias|1462|1558|63237
+988690018611990528|kartalkoydu|BeşiktaşKartalı🦅🏆🦅|Antalya, Türkiye|236|236|775
+356125609|Aldo_Vazquez1|Aldo Vázquez|A Coruña, España|7857|945|58276
+287916709|femsara|femsdequalitatara|Catalunya|509|1754|11299
+57913242|dominikpanek|DominikPanek|Polska|5803|3768|124741
+334456843|Eduardo210785|Eduardo petterson|None|208|800|5219
+867977437711171584|daniregui|✵⁴ 🐯|None|840|2008|39166
+441071795|lulu6019|Lourdes//*//|Barcelona, Catalunya|1626|2842|224323
+3003979189|Lesliealvarezt|Leslie|None|131|77|2900
+88267081|ommarzinho|OmaR* Яzinho|Guadalajara, Jalisco|1462|973|72479
+1253320194006503424|Uzaro4|Uzaro 🖤🇪🇦|None|100|536|5258
+818936158952587264|bjkloveapp|BJK LOVE 🇹🇷|İstanbul, Türkiye|3096|3317|167921
+1191602854462709761|Gordon36764266|Gordon|None|202|225|21643
+1062575731379789824|CorreoIndependi|Correo Independiente|Argentina|763|227|2595
+14436030|elmundoes|EL MUNDO|España|4033657|1388|359515
+1233049274|Gesago21|Gera Gonz 🤠|None|80|476|15530
+1181098501104553986|JaimShemtov|Guillermo Maxwell|Ciudad de México|22|77|391
+1626732637|ShilikuAli|Ali Shiliku|Kosova,Prizren|643|441|44719
+1147596946875379712|FabrizioDC_|Fabrizio Domínguez|None|162|246|2830
+90526663|IBCarlosDuran|Carlos Durán Alcalá|ILLES BALEARS,Mallorca,PALMA|463|402|224
+293958592|YorulmazCenk|cenk|None|8|148|787
+936172343898136576|albarikoquee|Alba Mtz. de Santos Garcia|Vitoria-Gasteiz, España|393|1317|16629
+304117043|MatiiasAgueroo|Matías Agüero|La Rioja - Argentina|521|1042|29873
+552666380|61TuranTs|TRABZONSPOR❤️💙|None|3572|3456|97392
+757736951994650624|dashevil12|🐺Balto,Wolf,Velvela and Krystal💎|Corneria|1354|4713|68351
+3279994453|04e4c65ea005420|Jaime Morales|Distrito Federal, México|39|586|5901
+427026290|Martintorralbo|Martín|Cañete de las Torres|2606|251|15676
+1233049274|Gesago21|Gera Gonz 🤠|None|80|476|15530
+215925338|erdem_s_|erdem s. 🇹🇷 ☀♥️ 💙|Belgium|518|1448|4059
+1025768077|pdelafuente98|Paulo de la Fuente|Lima, Peru|112|350|870
+169691018|Soytwiter0|Moisés.|Toronto, Ontario|4350|340|3889
+1442919666066862080|Erhan73731905|Erhan Yılmaz|None|0|6|6
+1443531105345363969|yusuf33210|yusuf kılıç|None|1|2|900
+3073627371|Gdvl22|GDVL|San Miguel, Peru|64|544|8754
+1388667360911847427|geraldinooop|The Big Boss 😎|None|477|1199|2753
+307205788|GuillermoPazCfc|Yerba mate, droga legal 🌿|Merlo|361|1319|2436
+1101528002083594241|todxsporigual|TodxsPorIgual|None|1532|536|5549
+1043672090551967744|aposentosantan1|EME|Lima El alto Aposenton|96|445|14294
+2377253523|LuisMenotti78|Luis Santiago|Galicia, España|7441|2885|51655
+405320076|jchacon_05|Jeremy Chacón|Costa Rica|64|375|494
+1265571531868037120|GalaDutch|GALATASARAY HOLLANDA 🇳🇱|Nederland|233|418|2117
+25992620|turkce|Türkçe|Türkiye|436552|99|170521
+1259884872|RanTheman10|Ranferi Santana|None|263|892|26605
+1229947689384775681|AntaresX10|Antares❌|Bogotá, D.C., Colombia|502|534|12757
+424641410|Pablo_A24|pablo vigo gil|None|309|245|26474
+4360715848|AlbertoGrilles|Alberto Grilles|Valencia, España|176|343|1002
+2450368210|MartinPlano75|Martín Plano|Córdoba, Argentina|74|159|16391
+2375545314|dmnxOS|Domènec|None|73|46|1372
+117971159|Pedrao_USA|⭐️Pedro Brandao⭐️|Boca Raton, FL|1317|735|91095
+461298545|kahramananal_42|KAHRAMAN ŞANAL 🇹🇷|None|1152|889|4698
+1258795820402565120|lideresSC|lideresSocialesColombia|None|99|185|12978
+434225618|Marck_78|Jesús Martínez|Terrassa (Barcelona) España |490|5001|123018
+167529866|AlpEfe67|ersyslmn|Çaycuma, Zonguldak|1186|1289|6869
+1246744960709386242|sergio_dhf|Sin Más|None|69|489|45040
+1149018578529771524|madiazcarlier|DíAz CaRLiER|None|6|114|536
+1385795805060157440|Jos10843927|José|None|53|3|7785
+468561057|NuezAndrade|karin|None|22|389|1599
+493467432|JuliManrique92|Juli Manrique|Estepona|506|531|385
+1369875932|luchososa27|Lu¢ho$osa ★|Asuncion, Paraguay|425|1042|28187
+182679459|Kaladin2017|𝕮𝖆𝖒𝖎𝖑𝖔 𝕻á𝖗𝖆𝖒𝖔 𝖅𝖆𝖗𝖙𝖆|Barcelona, Espanya|1546|1382|148777
+2457448948|arescollado|Antonio Collado Gar|None|32|40|980
+44872817|maka66|Maca Carrasco|Coria, Cáceres|414|447|21433
+1034559695808356352|jatirado_oc|Juan Antonio Tirado|Madrid, Comunidad de Madrid|5063|4448|634701
+108823016|_soyelnegro|Emmanuel Romero|Pamplona, España|750|187|142083
+895358818074361856|VascoDe_Gala|Vasco De GALA|None|246|446|8682
+275754899|walleskarreaza6|Walleska|Venezuela.|930|1012|38260
+289695484|salvador_fernan|Salvador Fernandez|Puebla, Mexico|20|85|3587
+409172776|dani_ev7|Dani|None|126|166|43694
+1677130826|santealba|SA10|Buenos Aires, Argentina|427|1068|65019
+183670153|davidrmzguzman|David Ramirez Guzman|None|123|878|2761
+720571556909490177|Reportes24H|Reportes 24H|World Wide Web|66145|41941|1690155
+1693515835|franarroyo22|Fran|Badajoz, España|522|998|17976
+1244006829388152832|Joaqun22544569|Achopijo|None|1496|1530|38670
+135466960|jsilvinor|JSil©|None|1859|594|100224
+1119617423383117826|Jereed9|🇹🇷🦅bjk1903🇹🇷🦅|Türkiye|132|138|8200
+2483969935|CarolPecha|Carolina Pecharroman|None|2082|863|16378
+434225618|Marck_78|Jesús Martínez|Terrassa (Barcelona) España |490|5001|123018
+1356304534449041408|DavutOzmen1905|Davut Özmen|Mardin, Türkiye|204|1152|15767
+1378057673137082369|JuanRAvalos3|Juan R. Avalos|None|57|220|35305
+434225618|Marck_78|Jesús Martínez|Terrassa (Barcelona) España |490|5001|123018
+1356304534449041408|DavutOzmen1905|Davut Özmen|Mardin, Türkiye|204|1152|15767
+65966693|ROLOTESO|DANIEL AMAYA MAYORGA|Bogota D.C.|3212|3685|119249
+1183709748803395584|Alejandro__dlCP|Alejandro de la Casa Pitaluga|None|39|63|197
+236915105|IvanMolero|Iván Molero|None|5393|1305|31925
+704352615077974018|ComertKaradag|cömert karadağ|None|408|413|4223
+1034907084|yagovila19|Yago|Vigo, Galicia|1302|961|221690
+1271047411612495872|alzozee|@Alzozeê 🆙 💖💛💖. ❌ 🔺|Comunidad de Madrid, España|2642|4295|20279
+113737338|ondokuzeyl|Âdem Öner|None|608|1425|68120
+1429915550612865031|deBrooonii|De Bruyne ama Ömer Bayram olan|None|5|14|195
+798860250749267968|mkaraca284026|Mustafa KARACA|Bilecik, Türkiye|648|996|68627
+313251265|PulgadeTriana|José Ramón Márquez|Madrid|1898|81|148201
+116458986|fmcarreno|Fernando M. Carreño|None|3938|1564|101839
+168858997|germanca67|Germán X.|None|66|238|8379
+1121902901427937280|Maritza19590938|Maritza|None|121|233|12563
+1052289252065595392|interstellxrz|Daniel|Snow Patrol|6|131|1526
+372547080|antonio_villa_7|Antonio Villa|None|496|334|1891
+1010076288495779840|beaaraus|bea 🦋|Cornellà de Llobregat, Espanya|140|211|971
+996358928370978816|nde9b|nú|None|17|111|386
+398587870|metindalman1|metin dalman|None|531|3133|3208
+2743391002|goikolari|Alfredo Goikoetxea|None|13|5|238
+291756595|Xavi_Santamans|Xavi Santamans 🦇💯🦇|valencia|509|556|39522
+706817345575059456|cristobalmc1974|Cristóbal MenéndezC|None|19|45|866
+114623420|lucasvigiani|Lucas Vigiani|Ciudad Autónoma de Buenos Aire|26162|947|29047
+1056299921480015872|lieblingandrea|ᵃⁿᵈʳᵉᵃ|None|582|420|98483
+1165869171210690560|dionysostip|𝐃𝐢𝐨𝐧𝐲𝐬𝐨𝐬|Türkiye|8644|123|13893
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+575410217|clubcritica|© CLUB CRITICД|None|383|1|600159
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+224692561|Txitxarro_club|Txitxarro|Itziar / Guipuzcoa|13321|10258|4496
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+303125761|talltorta|bolvir|None|162|79|5171
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+1412482662061723653|aitanisme|laura|None|652|603|3968
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+1387372979374497793|AngelLu21868213|DON FLORENTINO PEREZ JEQUE MATE|None|61|243|5412
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+14923657|roberquintana10|roberto quintana|Madrid|619|546|7566
+1341014009173127170|turkaz19|turkaz|None|27|38|15241
+798860250749267968|mkaraca284026|Mustafa KARACA|Bilecik, Türkiye|648|996|68627
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+459547164|GoikoDCIBELIA|Goiko DCIBELIA|Errenteria, España|2848|512|4615
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+131865907|tetsuhorie|tetsuhiro horie(堀江 哲弘)|青森 青森市|11032|2805|12770
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+1251111592432996352|KornerBeyi|Korner Beyi|Papua, Indonesia|3145|89|10141
+183206877|PVBlaugrana|Penya Virtual Blaugrana|Barcelona, Spain|1533|2260|208613
+711657654683365376|piz_Zurigorri|piz_Zurigorri|None|1213|758|18856
+1266268757443264514|EsperonAlonso|Roberto Esperon Alonso|None|261|2183|50372
+406517974|GoikoItzela|GOIKO|Euskadi|393|137|4496
+363341959|juan99torre|juan torre gomez|None|152|310|3013
+288675839|juanmaperez88|juan manuel|Huesca, yequeda|1169|5002|397510
+1097005165582913536|bist03|bist03|None|0|91|162
+1063205503906562048|miguelreyes1989|@miguelreyespérez🏀🏀|Albacete|222|542|32860
+2346559834|23aantonio|antuannn|None|182|315|18339
+1197112053720342530|Gomme62648005|Gomme|None|972|3158|7636
+1056687279882801152|Titamadre2|Titamadre|Colombia|1032|2287|431148
+81997572|cristianenriq3|cristian enrique|Provincia de Marga Marga Chile|1039|2462|11759
+456558491|WanHaber|Wan Haber|Van, Türkiye|25803|2378|62702
+4881866381|StaXxBY236|💫🌸Yona🌸💫 #LoveForJacky|Kouka↔Karmaland↔Marbella Vice|544|767|56662
+826705239629762560|jandarma|T.C. Jandarma Gn. K|Ankara, Türkiye|808386|7|6034
+803044722|MarSaldaa10|Mar🤍|Palencia, España|639|383|9381
+1440967242238283780|DerinMahru|MAHRU DERİN|None|20|149|1453
+2984597741|ArrutiColumn|The Arruti Column🛰️🇪🇺|Gallaecia suevorum regnum|1014|1208|38817
+1156895383|Fantasmin04|Fantasmin04|insta @fantasmacocina|170|267|3998
+3290591817|toni_rmedel|Toni Rodrigo Medel|None|71|101|646
+1266124114068008960|metinhunter|Metin|Sydney, Australia|2208|2313|11146
+3752146768|rnicocataldo|Nigro|San juan, Argentina|159|382|10396
+955441152907456514|kubra_ozkan06|KÜBRA ÖZKAN|None|26|58|1119
+2452598685|cheliingo3|Marcelo (Chelingo)|None|33|301|568
+1227853931990208512|ESTADOPLURINAC1|ESTADO PLURINACIONAL|None|2613|2478|15403
+1436096797945090059|RalLatorre|Raúl Alejandro Latorre|None|13|33|8420
+3644617948|ariadnasnchz|Ariadna Sánchez|None|59|315|132
+841329508569473024|infobaemexico|Infobae México|None|13099|220|144962
+957375067792474112|Turkkonya1|Turkkonya|None|378|295|3376
+1315255993861836801|atbaenensefs|At. Baenense Futsal|None|112|22|654
+1386146714|BatecsClassics|Antoni Janer Torrens|Mallorca|2844|2777|18452
+65138470|alfrediniesta|Alfred Iniesta|None|1510|2424|44347
+1427719348991430657|Randyer99|𝑹𝒂𝒏𝒅𝒚𝒆𝒓 🇻🇪|Ciudad Bolívar, Venezuela|4|64|700
+465091695|patrigos|PatriGos|None|3337|3275|58119
+1461306939103715340|4s1kgundem|4S1KGündem|None|4|1|46
+854462335410483200|Luisa46080723|Luisa Gimenez|Ciudad Autónoma de Buenos Aire|57|421|6424
+967776612501676032|Rosa34491852|Rosa Roig 🎗|None|191|472|13168
+1215998054526078977|kavgamgs|Kapo|None|155|339|7017
+304028341|senozlu_2153|İsmail Barış Özmen|İstanbul, Türkiye|1291|2226|119701
+2981109581|FjPardinas|Francisco Pardiñas|Madrid, Comunidad de Madrid|727|3789|59895
+1111764191763972096|mehmetazma1905x|MehmetAzma1905 - (𝗚𝗔𝗟𝗔𝗧𝗔𝗦𝗔𝗥𝗔𝗬)|Silopi, Türkiye|16416|0|22852
+78927729|memovi|Ömer Karataş|None|2816|4996|76996
+835642932178874368|luchitocanallon|Lucho|None|149|542|2347
+1952628631|Luk_Caceres|Paladar Negro|Buenos Aires, Argentina|454|1339|89521
+1405188355743260683|EscusolJesus|jesus escusol|None|90|503|4054
+1124357519432912900|carlaggarrido|carlaaa|Valencia, España|118|195|287
+15095537|marca|MARCA|España|5812213|1538|474522
+942458916784525314|Perviz_Alemdar|Pərviz Alemdar #Hedef23 💛❤️🇦🇿🇹🇷|Turkey|583|1854|29703
+65892301|juancky99|Juan C. Soriano|Dominican Republic|233|328|38450
+366368500|pacuito17|Adan Aramburu|None|470|863|28330
+1041487485346373632|aitorpr27|Aitor Manuel Peñate Ramos 🇮🇨🇪🇦|Vecindario|231|625|18675
+1042904503480209409|Espadamala3_0|Espadamala👨🏻‍🌾|None|5182|904|37344
+47303450|MenendezFaya|Andrea 🏳️‍🌈|Langreo|53153|1438|72245
+2654592634|rodiyod1973|Rodrigo Y.|None|934|3245|163933
+2211329396|Negativeturkz17|Salim|Русе, България|18|261|2072
+1388683524782411776|Ezeginii21|Eze Gini|Lomas de Zamora, Argentina|71|117|3084
+2952945388|hectorgasulla8|Héctor Gasulla|Barcelona, Espanya|1160|667|4055
+2654592634|rodiyod1973|Rodrigo Y.|None|934|3245|163933
+1289201964|InfoGibraltar|InfoGibraltar|Gibraltar|6126|394|69661
+1386332711594377223|theroadtogs4|theroadtogs4|None|342|360|1792
+216748022|gurpelit|ömer öztürk|TÜRKİYE|381|1050|12822
+2499551|xabitubbi|Xabier Cid|None|2586|4198|89517
+906944316102377475|QuinonezDigno|Digno Quiñónez|Asuncion, Paraguay|221|1332|1233
+1328694131883986945|kadiraktas_74|kadir🇹🇷🇹🇷|None|447|1156|36020
+399467049|MzfrPlt|SosyoBAZ İstasyon|EvvelALLAH|378|1160|3619
+4120626268|MyloveGltsry|Fazlasıyla Zeki💛❤|None|470|353|9600
+1594283995|Raulvalencia00|REAL MADRID C.F.|None|906|494|176070
+1396363599573102596|Mehmmet2207|Mehmet|Gaziantep, Türkiye|458|567|4758
+394721135|dilaratugces|Tugce Dilara Sonmez|maltepe üniversitesi|620|619|16526
+927807802403360768|Merk2__|ʞɹǝɯ|4mota|247|675|13473
+929963661040455682|JefersonMRV|Jeferson Moura|None|1478|1558|1308
+1262372390333489154|Cherokee1010|Cherokee18 🇮🇨|None|109|560|694
+190367542|1905AKSOY38|🏆 GALATASARAY 🏆|None|3707|3040|66702
+1079627350789316608|60yilatakoyilk|60.YIL ATAKÖY İLKOKULU|Turkey|304|83|1409
+371211573|GammaTeruo|Jordi 'Chow Pou' Querol Rielo|Barcelona|1378|1977|165651
+2915580860|carmenrablan1|Carmen Ramírez .|None|231|618|11429
+172687072|ManoloMontalt|Manolo Montalt|Personalidad=enemigos|36691|1582|149402
+2802507760|SonZorton|Son Zorton|None|783|1365|67521
+1211412188667138048|Gustavo90114679|Bi 🚫|None|169|1815|1455
+728350573|mehmet61akif|mehmet akif çolak|None|3783|217|1567
+2444407800|Ahmeetaksuu|AhmeetAksuu👑🇹🇷|None|3292|3316|6457
+1033282543|Mafalda_Pinho|Moutinho 🇪🇸|Santiago Bernabéu|2737|1058|315606
+547210262|JEizag|Eiza|None|101|247|5973
+1057682619113136128|claratoo_|@claratoo_|None|175|143|9875
+800406551534014465|AsiLatina|Todo Deporte|Las Palmas de Gran Canaria|148|650|27245
+1315255993861836801|atbaenensefs|At. Baenense Futsal|None|112|22|654
+2596123594|Nickofrassi|Nico|Ciudad de buenos aires|19|302|271
+1022843551326134273|lazhalil1|lazhalil|None|19|111|10953
+1279001479|Luiz_bartolo|Jeff Sarsngo|Pasaje, Ecuador|706|2799|5910
+1176663745285611520|SoyAlanRoberto|Alan López|CDMX/Tulancingo|1702|2989|16102
+1451136135447646210|Konyaspor_T|𝒦𝑜𝓃𝓎𝒶𝓈𝓅𝑜𝓇 𝒯𝓇𝒶𝓃𝓈𝒻𝑒𝓇|None|251|995|343
+455328908|rodrigolbenitez|RB|Asunción, Paraguay|2218|936|10228
+430883225|drkayahulya|Dr.Hülya Kaya|Istanbul, Turkey|6729|809|3213
+400806752|jaag11c|Julián Arbeláez G.|None|208|200|72870
+1594283995|Raulvalencia00|REAL MADRID C.F.|None|906|494|176070
+1442771017101979653|UndAyer1|Un d'Ayer|None|8|37|370
+930276019960938498|gioferrarog|Giovanni Ferraro|Paraguay|219|340|559
+1303389052109025281|patoman2099|Patoman2099|None|1|24|112
+736024921|JuanCMartinez_R|Juan C Martinez R 🇪🇸🇵🇹🇪🇺🤴|Madrid, Comunidad de Madrid|1453|4984|47032
+1463401402860900359|Andrew46769008|SF21|None|5|244|652
+360581303|IvanGonza7|Ivan González|O Barco de Valdeorras, España|299|464|595
+319413225|ritasteiner|R :)|Belo Horizonte, Brasil|3573|736|93240
+179197588|eli9010|Eliberto Solano P..|Soacha (colombia)|60|225|2406
+87751887|portalmvd|Montevideo Portal|Uruguay|540860|762|418116
+779995726793281536|PSOE_Eivissa|PSOE - Ciutat d’Eivissa|None|822|1386|13856
+1433372834827493376|Mehmeto23653429|Mehmetozgur|None|114|1283|14130
+3369273833|atpeta_loqsea|atpeta|None|1052|101|23799
+408201181|LuzMarinaNava1|Yosi|None|388|163|83126
+759130058694987777|DonnieMarcoXXX|DonnieMarcoXXX|Prague 🇨🇿|7131|4768|13869
+1364643075398787079|nyoticiaspy|Noticias Paraguayas|Pwawawuay|73|32|105508
+605071987|cabrera7730|carbonero|montevideo|608|706|3887
+15748165|mundodeportivo|Mundo Deportivo|None|2864905|1104|433034
+1286281395510358016|Ysfykc1|💛❤ GS'Li YUSUF💛❤|Manavgat, Antalya|1092|1566|7337
+808712893|yonnypraderas|daniel morillo|Hinojosa del Duque|381|565|39433
+15016249|ntvspor|NTV Spor|İstanbul, Türkiye|6082192|14|283147
+563165151|Juanmi2616|Heisenberg|None|70|513|4477
+4241609247|asiedyyyyy|الحربي|المدينة المنورة, المملكة العربية السعودية|237|950|6905
+166567287|cristianangari|cristian angarita|Bogotá, D.C., Colombia|21|88|864
+359700739|PaulRodas|Golo|Cuenca-ecuador|79|305|1060
+1300529387121582080|ndresocampo1|@ndresocampo|Medellín, Colombia|8|169|644
+217372273|futbolaragon|Federación Aragonesa Fútbol|Aragón, España|8905|221|9150
+26880549|LuisHCCDev|Luis Castro Cabrera|in a HOT HOT place|504|444|40239
+244189456|hectoraf7|Héctor|None|223|445|23436
+4496179816|FT_Total|Fútbol Total|None|22004|473|160067
+242764470|JuanDam6|JuanDam6⚽|Griñón, Madrid, España|858|382|65234
+2485856816|10Crisnec|crisneck|None|395|5000|4937
+1629764035|AnLop36|FNC Antonio|salamanca|118|425|2551
+1280536237|miangelfue|MA Fuentes|None|864|985|42203
+2728049465|paquimc2|paqui|None|183|230|4519
+250133218|AupaPucelaCom|AupaPucela.com|Valladolid, España|4828|318|32375
+1154912504113446912|ABastanchury|Bastanchury14|Alcorcón, Spain|174|618|49532
+152188482|huseyin_karakus|Hüseyin Karakuş|Bodrum, Muğla|24|146|1294
+1425951703866777604|reocfutbol|Rafael 💻🎙|Barcelona, España|125|133|259
+794865854|perea_i|Iñaki|None|20|41|43
+2765121434|KurtzEdu|Edu Kurtz|Castelli Bs As|146|196|540
+1217490096573894657|NY20204|Noé Yactayo|La Molina|128|1897|8823
+2573394337|JuaniTocco|Tekken|Rosario, Argentina|334|263|33689
+1364643075398787079|nyoticiaspy|Noticias Paraguayas|Pwawawuay|73|32|105508
+1151423139341053952|AlecHuracan|Alec 😎|Ramos Mejía, Argentina|437|1079|7805
+1093820944919990273|BotWikipedia|Lo más leído en Wikipedia|None|521|1|885
+1396861541153230849|lalqueriadelfut|L'Alqueria del Futbol|L'Olleria|53|59|361
+787780139497168896|eai_matheusr|Matheus ᶜᵃᵐ|Belo Horizonte, Brasil|210|466|7284
+1291239203217346561|regio_puma|Puma Regio|Monterrey, Nuevo León|56|155|853
+31090827|20m|20minutos.es|Spain|1463662|51236|501636
+1056079956|ZCFoficial|Zamora CF|Zamora, España|15704|368|17783
+1412489577143713796|david_legui91|David Leguizamon|LUQUE                 |319|1257|5087
+1468563878|TRKSports|TRK Sports|Venezuela|2997|202|19449
+269404471|juanmavelascom|juanma velasco|Romo (Getxo)|4459|686|18085
+1133077652594675712|paula_suarez10|Paula Suárez|None|53|88|4818
+1116167901004873728|EdwinCr62969333|Edwin Cruz|None|1|14|28
+1357481677728215041|Duanis2002|Duanis|Palmas, Canary Islands|32|140|325
+60100851|juangui_vasquez|Juangui Vasquez|Colombia|1642|3262|46198
+194968326|YajaLud|MYR|Ciudad Autónoma de Buenos Aire|288|503|18324
+250133218|AupaPucelaCom|AupaPucela.com|Valladolid, España|4828|318|32375
+185137753|Cresen10|Cresen|Madrid|630|501|28424
+3324125489|cesarca48116274|Rolo Castillo|None|54|1267|812
+732452167|ReinaVieiraM|Carmen Morales|Tres Cantos, España|207|160|39763
+373400762|LuisGarrido23|Luis López|Sevilla, España|359|357|10537
+756794914504118272|SeyhanYesilbas|Seyhan Yeşilbaş 🇹🇷|None|1013|469|80378
+1154990832|GSB_Diyarbakir|Diyarbakır Gençlik ve Spor İl Müdürlüğü|Diyarbakır, Türkiye|2624|84|11423
+472297123|Josef64_GS|Josef 🇦🇹🇹🇷|Austria|502|371|36764
+1422164687618289666|sxrxgiox_17|777.cain|None|16|32|214
+1438880090327236610|terimciceyda|cecey #Popescu Nöbeti|None|369|505|5731
+705363693429608448|carlosepasc|Carlos eduardo|None|22|432|2340
+932598607|villarjaneiro|🛰️Helena Villar Janeir|Galicia|2713|957|85127
+911288716559360000|enBursaHaber|enBursa|Bursa, Türkiye|7556|113|188033
+1408837593274388494|ChiringuitoCCF|El Chiringuito CCF ⚪🟢|None|1060|38|1076
+910821878|OJOVENE|vision 360|Venezuela|12385|1511|708902
+189192159|EsperanzaRicoL|Esperanza Rico Laverde|Bogotá - Colombia|23244|1824|119740
+1291677233816510470|GolsmediaMadrid|Golsmedia Madrid|None|1148|1102|3477
+448934473|elenatn_00|Elena Tomás|Riba-roja de Túria, España|334|844|69626
+349426304|Yohnny1988|Juan Maldonado|None|162|1885|7147
+300919094|Gloria_rocha|Gloria Rocha. 🇲🇽|None|619|1944|153136
+2147483670|Mosqueperro4|ZiggyStardust|None|1756|440|127060
+454977200|Coronaleonardo|Leonardo Corona|None|44|498|297
+1060771128|juancarlosgb_|LaOpinióndeJuanCarlos|None|12549|57|67774
+547502120|alvaro4mateo|Alvaro|portugalete|363|727|836
+752215143589830657|Enestasigano|Néstor Terán|None|26|60|149
+1498636741|as_robertoh|Roberto Hernández|None|835|150|780
+3374631719|Eduardodfreita3|Eduardoᶜʳᶠ|None|563|4956|106295
+1382236476310761472|guerraadriiitv|Adrián Guerra|None|24|26|3662
+1043217392938180614|criptocarbonero|Cryptocarbonero|The Netherlands|476|499|12005
+1151728763815845888|BolanosAleks|Aleks 🚩|Jamundí, Colombia|680|1604|22745
+3293043698|Juanjo_J3|J3 Hala Madrid|None|20|64|1837
+1272690350797328384|Eduardo03631830|Eduardo Ed|Tampico|185|56|4226
+992510213310861313|armyheda|m 🌈|None|63|412|195270
+2851881239|miguelmetola|josé miguel pinta un búfalo en la pared|La Rioja independiente|258|1129|22650
+939977808956321793|Alberichnibelu2|Alberich_nibelung|None|404|427|113461
+339281879|elenay29|Lna 🇪🇸 Tabernaria|En el Bernabeu|19601|8917|253188
+1245346438231572480|DurmuGirgin9|Durmuş Girgin|None|0|30|3
+1384240998130192384|onrenc|onureren|İzmir, Türkiye|138|305|4409
+2948730473|oneguan1111|oneguan|Málaga, España|6|49|2683
+402251475|EduardFerrando|Eduard Ferrando|None|127|122|4477
+300204426|SoloHagoMacanas|Sir Archibald Bradley|Saskatchewan, Canada|1845|629|149049
+1064815001100328960|BomberosCbpc|Consorcio de Bomberos de la Provincia de Cádiz|Provincia de Cádiz|1521|14|6130
+394300946|margonzak|nanogonzalez|None|80|273|6253
+1396287528278319104|MurKyRM7|MurKyRM7 🐐|Santiago Bernabéu|127|279|5690
+2973810292|jalemanazul|Javier Alfaro|None|2140|4995|63426
+1203838024167100416|Nolbert31363245|Nolberto|None|39|125|2399
+3142919739|sozcugazetespor|Sözcü Spor|İstanbul, Türkiye|56328|6|1357
+1043217392938180614|criptocarbonero|Cryptocarbonero|The Netherlands|476|499|12005
+1424012717405392899|donhuevazos|Don Huevazos|None|329|556|5210
+336337897|wilfredosantand|Josue1:9|colombia|2412|3304|282463
+407299869|andreacifu24|Andrea Cifuentes 🥖💚|Medellín, Colombia 💚|268|789|5766
+265576287|Olazabalperu|Peru Olazabal|Villa Escándalo|897|667|5437
+695158890477064193|fuckthesystem_6|Esteban Becerro|None|2|9|127
+36626651|Europarl_ES|Parlamento Europeo en España|Madrid-Bruselas-Estrasburgo|167688|3410|21011
+4337676735|yusuf__42|🇹🇷|Akşehir, Türkiye|522|1605|14863
+1029951576427966465|BOzdemir1903|Burak Özdemir1903|None|2247|3975|65874
+1447902782799945730|librootraliga|Libro La Otra Liga|Palma |84|351|275
+381282661|shesaidwoww|mery ミ☆|#𝐕𝐓𝟏𝟒|2896|3632|134513
+562363587|aines_angelitos|Aines|None|26|129|3527
+749016263138107392|diegohema10|Diego Hernández|Uruguay|349|456|78768
+247296442|FCF_CAT|Federació Catalana de Futbol|Catalunya|41252|505|20737
+15748165|mundodeportivo|Mundo Deportivo|None|2864906|1104|433034
+277505294|sany_229|Sandra Curiel|None|260|974|3950
+700309471|GuilleRamos09|La Tolba|Montevideo, Uruguay|661|658|20935
+277639925|angelesgganyen|Angeles García|sevilla|178|540|5718
+4558394193|Sandyhotmailco6|sandrita García ❣️ 😜|None|84|491|397
+303767323|Antena3Galicia|A3Galicia|Galicia|6326|89|35372
+1457491356964765701|Oye255048|Osiel|None|0|1|7
+109729532|McdielSoto|mcdiel soto|None|149|372|9642
+148933775|maxiibire|Maxi Ybire|None|162|347|7625
+1371930566891802630|ramirezz_lu|la toxi🤙🏽|None|86|75|589
+316908145|jf_marti|JF Martí|Muy cerca de ti.|134|696|20883
+1287375391053799430|carmennmarmol|carmen maría💌|Murcia, Spain|142|277|3611
+1421135459514716160|Miguel_Moteiro|Moteiro|Madrid, Comunidad de Madrid|86|336|2278
+1054510620115156992|tronquechanta24|TRONQUECHANTACRUZ🌲🎅|None|1054|3522|19311
+274137365|itoizjp|Juan Pablo Itoiz|None|1145|547|22728
+1174771672362180610|9Migueelangel|migueelangel.9|Critana|146|543|1150
+1291069431318290433|GolsmediaBale|Golsmedia Baleares|None|531|828|2460
+2350324869|10Troi10|Peña TROI10|Mérida|2084|1389|22380
+2168335393|RichiFuentess|Ricardo|None|24|205|532
+2180572710|camaviinga|⚡️ALEX RMCF⚡️|Las Rozas de Madrid, España|2259|960|206392
+577056318|seleene87|Pericorubinenc reloaded|Barcelona, Spain|44|107|2547
+450681307|WRaul47|Willy|Trujillo, Peru|52|350|5195
+170051824|DavidFerlop|David Ferlop|De San Fernando. En Sevilla|1385|771|27343
+232399680|alejos62|Alejandro|None|25|178|1718
+420438483|albertofunes6|Alberto Funes|None|362|585|4374
+100077812|charlypereda|Charlypereda|Ciudad Autónoma de Buenos Aire|131|2029|1906
+1309997482626158593|coppa_nahuel|Nahuel Coppa|None|1|143|447
+929677598|ilhan_Soyler|İlhan Söyler|None|45|110|219
+182330628|tjcope|Tiempo de Juego|Cadena eh, eh, eh... COPE!!!|525599|2317|266581
+1308373976893329410|FurkanGundog|Furkan GÜNDOĞ|None|173|213|1692
+1176190697814339584|JuanCar00559629|Juan Carlos Teran Lama|None|354|5001|36395
+1053262366090125313|RicharMurdock|Murdock|None|11935|180|38602
+544245142|elnaandes|Fernando Fernández|Bunyola, España|2844|696|42725
+3349618762|paintingthewind|carla ϟ|♀ / slytherin 🐍 / spain|928|915|41436
+1289929389715722241|AzSportfm|Sportfm.az|None|9|71|11247
+778610650197192704|nacho_depando|Nacho Gómez de Pando|None|84|154|97651
+1588131462|lauraorojur|L@ur@|Granada, Spain|94|46|75286
+1437941603839189000|newsgacalberto|Alberto de Boca|La Bombonera|26|129|2887
+17933434|papiolo|Favio Herrera|Huancayo, Peru|171|1224|1545
+1339986720478146561|Lauraaa08855447|Lauraaa|None|304|220|25167
+1281566154545336320|MigelXh|Migel🇦🇱🇦🇱|None|121|286|10415
+210805091|rcnmundo|RCN Mundo|Bogotá, Colombia|195732|258|690153
+1069648891891642369|Velardioz28|toto👾|Villa Ballester|360|391|46467
+948873475|RamaPincha87|Chico Alfajor \(87)/|City Bell |1216|1044|36905
+718198945281925120|futbolportaluy|FútbolUy|Montevideo, Uruguay|13619|102|68780
+1427455634476261378|JosDavi42104461|José David|Holguín,Cuba|1|40|185
+751106651067932672|g_fontie|German Gomez|None|1802|3113|232787
+1165742668661571584|yomismita10|yomisma|Ibiza|167|2819|12188
+486104930|calanda_teruel|Calanda Teruel|Teruel, Spain|35|105|104
+478751158|eljuli22|juli🐸🔵🔴levante|valencia|817|1418|48103
+1455487053366534146|Ayunt_deRuidera|Ayuntamiento de ruidera|Av. Castilla la Mancha,47|9|22|43
+1445858079027826693|MovCi21N|MOVIMIENTO CIUDADANO 21 de NOVIEMBRE|Con los CIUDADANOS VENEZOLANOS|1447|2810|8886
+17933434|papiolo|Favio Herrera|Huancayo, Peru|171|1224|1545
+893666274|TomeuTimor|Tomeu Timor|None|849|761|124003
+34918017|eitbkirolak|EITB Kirolak|Euskal Herria|18574|1196|144215
+1209573757|Leonel_DL|Mono|None|247|259|29152
+993741780|AbaloneOrtega|Ni Dios ni Rey|None|13778|5932|166301
+3471965979|olbap131|Pablofernandez|None|8|56|2030
+776527736|polflores93|Un simple laburante|Salta|220|513|9591
+1311621610810601472|aff_faf|Federación Alavesa de Fútbol|None|820|140|1330
+95195492|hariseldon_sv|Seldon Aqay|Turkey|1904|1296|7909
+954145213|ExpressFutbolCL|Express Futbol|CONMEBOL, UEFA, CONCACAF|89795|5077|106859
+1176190697814339584|JuanCar00559629|Juan Carlos Teran Lama|None|354|5001|36395
+1327267391995322371|juanmc2_|juanma🦈|almeriaa|2463|1906|16556
+482273267|PitusWay|J.A. Pitus Fernández|Samoa Central|567|1471|19779
+295805177|BuzosNoticias|Buzos de la Noticia|México|27207|5603|26433
+100077812|charlypereda|Charlypereda|Ciudad Autónoma de Buenos Aire|131|2029|1906
+4824272255|ajci45|AJKarvi|None|10|101|2426
+239039326|cintammiro|Cintammiró|madrid|887|1278|5199
+403344479|lavozdeltajo|La Voz del Tajo|San Francisco 21. TALAVERA|9724|1280|79066
+1447834710093307909|elplanenjoyer|ElPlanEnjoyer🇪🇸|None|261|648|12226
+4758416836|daviid1316|🏴󠁧󠁢󠁥󠁮󠁧󠁿|None|89|175|16911
+1238623646|tonicepi|Antonio jose|None|239|302|883
+1257193734430736389|MuratYe60956306|☆☆EFSANEVIC☆☆|None|80|73|28768
+1230510376867024897|MakoboIgira|Son_Amor|None|219|328|2616
+131046283|andre21e|Andrea|Valencia-Venezuela|276|965|6531
+1383087724282978306|nayaraajmnzzz|wilifo|928 |251|213|1265
+4764377716|SaldirGLTSRY|SaldırGALATASARAY|None|34648|18836|19389
+365294659|sebastiaanalarc|El SEBASPATA|None|920|1050|97116
+1854624817|eDoubLeJMT|Juanjo Marín|Alicante|784|713|8967
+273465860|DianaIJS97|Diana Jiménez|None|276|275|6525
+81711259|goalkeapper|tony martinez diaz|barcelona|1135|5001|609250
+1417234919017811968|RToplu06|Ramazan Toplu06|None|326|498|408
+68646530|medyatavacom|MedyaTava|Yazmadıysa doğru değildir!|592088|8|146502
+1432006421508415495|soloyo741665151|soloyo|None|2|11|43
+1081958456968597506|quelvcf|r🦇|None|1245|190|23286
+72981026|KatyTigerSoccer|KatyTigerSoccer|Katy, TX|1055|5000|19046
+1076526366|01araujoph|pablo henrique|Belo Horizonte, Brasil|962|2678|25277
+1445858542687121409|hbrsarikirmizi|habersarikirmizicom|None|160|657|390
+785434743055716352|angel21yanez531|AMYR|Venezuela|124|328|17017
+4758416836|daviid1316|🏴󠁧󠁢󠁥󠁮󠁧󠁿|None|89|175|16911
+2740365135|AlejandraaBarro|Alejandra|Comodoro Rivadavia, Argentina|568|378|16805
+963805575715926017|Charlieonti_|Charlieonti|Sevilla, España|240|338|4070
