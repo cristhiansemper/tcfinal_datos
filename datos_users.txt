@@ -1,0 +1,101 @@
+id|nombre_usuario|nombre_completo|ubicacion|cant_seguidores|cant_seguidos|cant_tweets
+184489792|Loremrm|Lore-Lore|Córdoba, Veracruz |57|248|6221
+309980559|AlondraEsp_|Alondra Espinoza|Mexico|1498|4392|18045
+213441212|FCabezas78|Francisco Cabezas|Barcelona|7797|1964|10597
+2969950804|Mi0Geek|Miguel|México//Dinamarca|2047|855|18041
+977375364585582593|AlexcortezW|Alexneitor|Plottier, Neuquén |112|110|5581
+177635570|bernabeieliseo|Eliseo Bernabei|None|593|1508|32048
+1398491055780204544|hoonmel|mely (📚)|only for 엔하이픈 🏈|520|394|12578
+3256874878|gggonzalo01|ɢoɴzα😆|Monte Grande, Argentina|677|912|17293
+1187797511278333954|Nikitou05|Nico|None|49|403|1124
+974354813432614913|JessSierraTorr1|Jesús Sierra Torres|None|103|266|72019
+718237838|falsobohemio|Nacho|Vicente López, Argentina|2309|622|87321
+847873130148319232|Rubik2308|Rubén Heredia Ramos|Monterrey, Nuevo León|730|561|14592
+1385325911269167104|Cuentabardo1|Cuentabardo_|None|0|0|124
+563786957|Alex_Herrera21|Alex Herrera|GRANADA !!! |447|346|26518
+2783066254|alvaritoarmada|Armada🍋|None|368|382|1230
+1129583184|TomiBoooca12|توما|None|1046|72|3256
+148372339|Radio_Formula|Grupo Fórmula|Ciudad de Mexico|716804|1244|377465
+1166475366342569985|ohmorti|MORTI|Islas Canarias|230|155|19567
+920225083|satoru_19890722|サトル(Satoru)◢⁴⁶賀喜遥香、弓木奈於、林瑠奈、髙橋未来虹、丹生明里、金村美玖推し|日本🇯🇵川崎市、乃木坂、日向坂、櫻坂、ニジマス現場|1719|4918|486264
+424533842|MarianoFioriti|Mariano Fioriti ☀️✌️|Ituzaingó Centro, Argentina|1436|4986|49841
+353867508|GabrielRaggio10|RAGGIO,GABRIEL ⚽|Nápoles|521|669|16601
+944732210|CatFucking|Nina Serrano|En un mundo paralelo al tuyo.|92|517|7903
+1400101552950583299|dinho_1899|𝐃𝐢𝐧𝐡𝐨 𝟏𝟖𝟗𝟗|Uruguay|38|50|465
+210805091|rcnmundo|RCN Mundo|Bogotá, Colombia|195731|258|690133
+796755859644805120|MauroBoca1229|Mauro|Finisterre|80|76|724
+1722587449|dhtamborini|daniel59|Viedma, Argentina|1695|1744|12393
+1455676645831020547|feliabud_|fels|None|31|43|14
+847263497796767745|Humbert57175119|Humberto Fernandez|None|103|183|7119
+6979092|solotigres|Solo Tigres|Monterrey, Mexico|216438|872|100314
+763779904328597504|MastronardiMati|Matias Mastronardi|None|63|161|2976
+266148221|LigaPremier_FMF|Liga Premier FMF|Toluca, México|54924|375|39425
+592233937|hugoorellanac|Hugo Orellana|None|2997|5003|68795
+96407490|r11chardp11no|Richard Azul|None|280|692|7783
+2965013885|fbaltazarm1|Fernando B. 💥💥💥|None|72|217|9855
+37831835|tndeportivo|TN Deportivo|Argentina|413716|244|27506
+350484599|pipestrauch|Estrellita|Sabana|1626|327|14989
+1979436684|CrigoviV|Cristian Gómez V.|Santiago |199|496|3277
+963470654157873152|palomagarcia523|paloma garcia|None|22|39|3571
+250329152|josetxudivan|Josetxu|None|781|3861|28322
+935171180|oskygomita|Oscar J. Gómez|Buenos Aires, Argentina|911|873|51350
+1452420830009249793|aldeus_|Aldair Muñoz|Tláhuac, Distrito Federal|77|403|8129
+1185727598397218816|GonzaloTapiaVI|Gonzalo Tapia|None|13|59|3732
+1115799090|IamCarlos_B|Carlos|None|232|116|16564
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1464979208699056134|danielrg980410|DANIEL RG|León, Guanajuato|2|28|78
+403323624|Felipe56dm|FELIPE 56 D.M.|None|453|190|26916
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+963470654157873152|palomagarcia523|paloma garcia|None|22|39|3571
+1466821035597127681|loshuehuenches|Huehuenche|None|1|41|5
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1179976090321854464|L4NGFORD|flor {dylan's version} ♡|de Boca, como Roman 🇸🇪|1553|1176|10057
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+122489764|Iaac1094|Isaias|panamá|147|323|7768
+327247691|filomenoenzo|Enzo Filomeno (xHx)|Soldati|286|237|2988
+1282819516192284672|AlcanceDiario|Alcance Diario|Puebla|1207|212|38328
+123934295|jamarchesini|Javier Marchesini|Argentina|337|936|1261
+1390839705667842049|Luisio31179326|Luisiño|None|57|123|2134
+1439292791205531657|White9317|White93🇨🇺|Cuba|530|927|2911
+2994324237|jcteranlama|Juan Carlos Teran Lama|None|225|2890|21302
+1210228619986911235|queenmoon007|thegreener|None|108|5000|5296
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+830316656773779456|osunacarlos18|Carlos Osuna|Mexicali, Baja California|59|971|1382
+744338334202355713|Fernando21016|Fernando Gomez #1|Brandsen 805|120|155|3072
+1430595278105677825|Gustavito1707|piernas de cristal|La Bombonera|554|1193|6657
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+348175064|dongato832|DonEdu|None|325|928|51747
+810769256015155200|pingotron|🧑‍🎄pingotron (navidad)🎄|any pronouns|536|478|37528
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+614609006|juan_ma_2000|Juanma Ramirez|None|162|410|3127
+843963644157317121|dt_elcomercio|Deporte Total|Peru|17248|311|42199
+4187908043|Lukaskastro11|lucón 🙏|La Bombonera|379|533|9987
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+713486903|daviddegracia01|David|panama|48|67|9132
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+882392374827266049|BrianRoa20|Brian Roa|Paraguay|545|787|12080
+960296670|frg_77|Federico R.|None|256|367|13294
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1867574384|NaatiLeon|Natiiii|None|787|307|238875
+1123028807332581376|trollperoncho|tr☀llper☀️nch☀️|JOSE CLEMENTE PAZ - ARGENTINA|1293|1251|77718
+35011820|Yadiruquis|Yadhira Sánchez Ruiz|None|9|105|5705
+1099821417842003973|gabrielalhdz|Gabriela Hernández|México|281|1195|2550
+1406495459221413888|VictorNarambue2|Victor Narambuena|None|78|1518|4683
+279759730|glaural|laura gl 🖤|españa|1166|1382|96080
+1463217951104929792|CahuantziTeresa|TERESA CAHUANTZI|None|0|0|53
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1356428425741934593|jean_buenano|Jean Buenaño|None|11|78|2549
+117293743|emiliomoriones|Emilio Moriones|Olavarría|1115|108|22495
+109694907|mafer40|Mary❤️|Ccs Vzla|914|973|112301
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+244263410|twtincho|Martín Silva|Haedo, Argentina|139|377|30237
+44763162|Robykaiser|jorge roby|In the drak and light|859|4908|11872
+3056315609|chori_2001|Chori ludueña ✨|Córdoba, Argentina|321|1251|5133
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+195917927|estefipastor|Estefi Pastor|Mendoza Argentina|80|369|3609
+186595316|cristhiamc2|Cristhiam Cabrejo|Granada, Colombia|81|248|9882
+1346221793183457281|AlvisFreites06|Alvis FREITES|None|57|38|19177
+1148273530326409216|JesusBay_Bay|Jesus|None|1192|1888|54456
+3279221795|angelalbertod15|Angel Díaz|None|88|1745|10176
